@@ -1,0 +1,31 @@
+C:\Documents and Settings\f030300036\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\f030300036\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\Interop.Excel.dll
+C:\Documents and Settings\f030300036\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\Classroom Allocation System.csproj.ResolveComReference.cache
+C:\Documents and Settings\f030300036\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\Classroom_Allocation_System.Login.resources
+C:\Documents and Settings\f030300036\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\Classroom_Allocation_System.Operation.resources
+C:\Documents and Settings\f030300036\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\Classroom_Allocation_System.Properties.Resources.resources
+C:\Documents and Settings\f030300036\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\Classroom_Allocation_System.Select_Classroom_Book.resources
+C:\Documents and Settings\f030300036\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\Classroom_Allocation_System.Select_Classroom_Cancel.resources
+C:\Documents and Settings\f030300036\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\Classroom_Allocation_System.Select_Classroom_Change1.resources
+C:\Documents and Settings\f030300036\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\Classroom_Allocation_System.Select_Classroom_Change2.resources
+C:\Documents and Settings\f030300036\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\Classroom_Allocation_System.Select_zone.resources
+C:\Documents and Settings\f030300036\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\Classroom_Allocation_System.Theme.resources
+C:\Documents and Settings\f030300036\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\f030300036\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\f030300036\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\bin\Release\Classroom Allocation System.exe.config
+C:\Users\Administrator\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\bin\Release\Classroom Allocation System.exe
+C:\Users\Administrator\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\bin\Release\Classroom Allocation System.pdb
+C:\Users\Administrator\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\bin\Release\Interop.Excel.dll
+C:\Users\Administrator\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\Interop.Excel.dll
+C:\Users\Administrator\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\Classroom Allocation System.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\Classroom_Allocation_System.Login.resources
+C:\Users\Administrator\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\Classroom_Allocation_System.Operation.resources
+C:\Users\Administrator\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\Classroom_Allocation_System.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\Classroom_Allocation_System.Select_Classroom_Book.resources
+C:\Users\Administrator\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\Classroom_Allocation_System.Select_Classroom_Cancel.resources
+C:\Users\Administrator\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\Classroom_Allocation_System.Select_zone.resources
+C:\Users\Administrator\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\Classroom_Allocation_System.Theme.resources
+C:\Users\Administrator\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\Classroom Allocation System.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\Classroom Allocation System.exe
+C:\Users\Administrator\Desktop\WS project peter\Classroom Allocation System\Classroom Allocation System\obj\x86\Release\Classroom Allocation System.pdb

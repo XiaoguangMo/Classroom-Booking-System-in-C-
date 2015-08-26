@@ -1,0 +1,70 @@
+Book successful! 
+Room: D405
+ Time: Mon 8:00-8:50
+ Course: abc
+
+Book successful! 
+Room: D301
+ Time: Mon 8:00-8:50
+ Course: abc
+
+Book successful! 
+Room: D305
+ Time: Mon 8:00-8:50
+ Course: ddd
+
+Book successful! 
+Room: C122
+ Time: Mon 8:00-8:50
+ Course: aaa
+
+Book successful! 
+Room: C122
+ Time: Mon 8:00-8:50
+ Course: aaa
+
+Book successful! 
+Room: E308A
+ Time: Mon 8:00-8:50
+ Course: aaa
+
+Book successful! 
+Room: B302
+ Time: Mon 8:00-10:50
+ Course: AD
+
+Book successful! 
+Room: D405
+ Time: Mon 8:00-8:50
+ Course: FGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGH
+
+Book successful! 
+Room: D407
+ Time: Mon 8:00-10:50
+ Course: aaa
+
+Book successful! 
+Room: D407
+ Time: Mon 8:00-8:50
+ Course: aaa
+
+Book successful! 
+Room: C122
+ Time: Mon 8:00-9:50
+ Course: sdw3
+
+Book successful! 
+Room: C203
+ Time: Mon 8:00-8:50
+ Course: sdw4
+
+Book successful! 
+Room: D406
+ Time: Mon 8:00-8:50
+ Course: Media Art
+
+Book successful! 
+Room: C407
+ Time: Mon 8:00-8:50
+ Course: sdw5
+

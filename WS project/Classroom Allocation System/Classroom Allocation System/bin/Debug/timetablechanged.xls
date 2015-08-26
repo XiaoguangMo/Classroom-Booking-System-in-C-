@@ -1,0 +1,5451 @@
+<?xml version="1.0"?>
+<NewDataSet>
+  <Table>
+    <Name>Name</Name>
+    <Teachers>Teachers</Teachers>
+    <Classes>Classes</Classes>
+    <Room>Room</Room>
+    <Capacity>Capacity</Capacity>
+    <Date>Date</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (23) (For students from HK &amp; Macao)</Name>
+    <Teachers>Dr. Andy FUNG</Teachers>
+    <F3 />
+    <Room>D305</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 18:00-20:50</Date>
+  </Table>
+  <Table>
+  </Table>
+  <Table>
+  </Table>
+  <Table>
+    <Name>French II (1)</Name>
+    <Teachers>Ms. Sophie DUBOIS-PEPIN</Teachers>
+    <F3 />
+    <Room>C305</Room>
+    <Capacity>68</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>French II (1)</Name>
+    <Teachers>Ms. Sophie DUBOIS-PEPIN</Teachers>
+    <F3 />
+    <Room>C305</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Korean I (1)</Name>
+    <Teachers>Ms. Kyung Mi ROH</Teachers>
+    <F3 />
+    <Room>E307</Room>
+    <Capacity>32</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Korean I (1)</Name>
+    <Teachers>Ms. Kyung Mi ROH</Teachers>
+    <F3 />
+    <Room>E307</Room>
+    <Capacity>32</Capacity>
+    <Date>Thu 13:00-13:50</Date>
+  </Table>
+  <Table>
+  </Table>
+  <Table>
+    <Name>Korean I (4)</Name>
+    <Teachers>DHSS New Teacher 6</Teachers>
+    <F3 />
+    <Room>C208</Room>
+    <Capacity>72</Capacity>
+    <Date>Thu 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Spanish I (1)</Name>
+    <Teachers>Ms. Betsabe RIERA</Teachers>
+    <F3 />
+    <Room>E208B</Room>
+    <Capacity>28</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Japanese II (1)</Name>
+    <Teachers>Ms. Lily XIAO</Teachers>
+    <F3 />
+    <Room>E208C</Room>
+    <Capacity>28</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Japanese II (1)</Name>
+    <Teachers>Ms. Lily XIAO</Teachers>
+    <F3 />
+    <Room>E208C</Room>
+    <Capacity>28</Capacity>
+    <Date>Thu 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>The Emergence of Modern America</Name>
+    <Teachers>Dr. Victor J Rodriguez</Teachers>
+    <F3 />
+    <Room>E302</Room>
+    <Capacity>68</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>The Emergence of Modern America</Name>
+    <Teachers>Dr. Victor J Rodriguez</Teachers>
+    <F3 />
+    <Room>E302</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Jazz</Name>
+    <Teachers>Dr. Christopher KRAMPE</Teachers>
+    <F3 />
+    <Room>E103</Room>
+    <Capacity>58</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Jazz</Name>
+    <Teachers>Dr. Christopher KRAMPE</Teachers>
+    <F3 />
+    <Room>E103</Room>
+    <Capacity>58</Capacity>
+    <Date>Thu 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Land Law</Name>
+    <Teachers>Prof. Chris LAM</Teachers>
+    <F3 />
+    <Room>E104</Room>
+    <Capacity>58</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Land Law</Name>
+    <Teachers>Prof. Chris LAM</Teachers>
+    <F3 />
+    <Room>E104</Room>
+    <Capacity>58</Capacity>
+    <Date>Thu 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Psychology (GE) (1)</Name>
+    <Teachers>Dr. Ghee HO</Teachers>
+    <F3 />
+    <Room>E105</Room>
+    <Capacity>58</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Psychology (GE) (1)</Name>
+    <Teachers>Dr. Ghee HO</Teachers>
+    <F3 />
+    <Room>E105</Room>
+    <Capacity>58</Capacity>
+    <Date>Thu 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Spanish I (5)</Name>
+    <Teachers>Ms. Roser CERVERA</Teachers>
+    <F3 />
+    <Room>E303A</Room>
+    <Capacity>30</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Spanish I (5)</Name>
+    <Teachers>Ms. Roser CERVERA</Teachers>
+    <F3 />
+    <Room>E303A</Room>
+    <Capacity>30</Capacity>
+    <Date>Thu 13:00-13:50</Date>
+  </Table>
+  <Table>
+  </Table>
+  <Table>
+  </Table>
+  <Table>
+    <Name>French II (2)</Name>
+    <Teachers>Ms. Sophie DUBOIS-PEPIN</Teachers>
+    <F3 />
+    <Room>C304</Room>
+    <Capacity>68</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>French II (2)</Name>
+    <Teachers>Ms. Sophie DUBOIS-PEPIN</Teachers>
+    <F3 />
+    <Room>E103</Room>
+    <Capacity>58</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>German II (2)</Name>
+    <Teachers>Mr. Helmut WARMENHOVEN</Teachers>
+    <F3 />
+    <Room>C305</Room>
+    <Capacity>68</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>German II (2)</Name>
+    <Teachers>Mr. Helmut WARMENHOVEN</Teachers>
+    <F3 />
+    <Room>C305</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Spanish II (1)</Name>
+    <Teachers>Ms. Betsabe RIERA</Teachers>
+    <F3 />
+    <Room>E208B</Room>
+    <Capacity>28</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Japanese I (2)</Name>
+    <Teachers>Ms. Hannah XIAO</Teachers>
+    <F3 />
+    <Room>D407</Room>
+    <Capacity>70</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Japanese I (2)</Name>
+    <Teachers>Ms. Hannah XIAO</Teachers>
+    <F3 />
+    <Room>D407</Room>
+    <Capacity>70</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Japanese III</Name>
+    <Teachers>Ms. Lily XIAO</Teachers>
+    <F3 />
+    <Room>E303A</Room>
+    <Capacity>30</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Japanese III</Name>
+    <Teachers>Ms. Lily XIAO</Teachers>
+    <F3 />
+    <Room>E303A</Room>
+    <Capacity>30</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>American Intellectual History</Name>
+    <Teachers>Dr. Victor J Rodriguez</Teachers>
+    <F3 />
+    <Room>E302</Room>
+    <Capacity>68</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>American Intellectual History</Name>
+    <Teachers>Dr. Victor J Rodriguez</Teachers>
+    <F3 />
+    <Room>E302</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Fundamental Concepts in Language</Name>
+    <Teachers>Dr. Dave TOWEY</Teachers>
+    <F3 />
+    <Room>E104</Room>
+    <Capacity>58</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Fundamental Concepts in Language</Name>
+    <Teachers>Dr. Dave TOWEY</Teachers>
+    <F3 />
+    <Room>E104</Room>
+    <Capacity>58</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>The Formation of the Modern World</Name>
+    <Teachers>Dr. Ustina MARKUS</Teachers>
+    <F3 />
+    <Room>E105</Room>
+    <Capacity>58</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>The Formation of the Modern World</Name>
+    <Teachers>Dr. Ustina MARKUS</Teachers>
+    <F3 />
+    <Room>E105</Room>
+    <Capacity>58</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Government and Society</Name>
+    <Teachers>Prof. Christian ASPALTER</Teachers>
+    <F3 />
+    <Room>D305</Room>
+    <Capacity>60</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Government and Society</Name>
+    <Teachers>Prof. Christian ASPALTER</Teachers>
+    <F3 />
+    <Room>D305</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Computer-Aided Data Analysis (for Non-STAT students)</Name>
+    <Teachers>Ms. You-Mei LIU</Teachers>
+    <F3 />
+    <Room>C403</Room>
+    <Capacity>102</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Computer-Aided Data Analysis (for Non-STAT students)</Name>
+    <Teachers>Ms. You-Mei LIU</Teachers>
+    <F3 />
+    <Room>C403</Room>
+    <Capacity>102</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Spanish IV</Name>
+    <Teachers>Ms. Betsabe RIERA</Teachers>
+    <F3 />
+    <Room>E208B</Room>
+    <Capacity>28</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Spanish IV</Name>
+    <Teachers>Ms. Betsabe RIERA</Teachers>
+    <F3 />
+    <Room>E208B</Room>
+    <Capacity>28</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Western Feminist Thought</Name>
+    <Teachers>Dr. Milen JISSOV</Teachers>
+    <F3 />
+    <Room>E103</Room>
+    <Capacity>58</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Western Feminist Thought</Name>
+    <Teachers>Dr. Milen JISSOV</Teachers>
+    <F3 />
+    <Room>E302</Room>
+    <Capacity>68</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Language and Society</Name>
+    <Teachers>Dr. Sheena Van-Der MARK</Teachers>
+    <F3 />
+    <Room>E104</Room>
+    <Capacity>58</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Language and Society</Name>
+    <Teachers>Dr. Sheena Van-Der MARK</Teachers>
+    <F3 />
+    <Room>E104</Room>
+    <Capacity>58</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Mass Communication</Name>
+    <Teachers>Mr. Benjamin J. GRAMS</Teachers>
+    <F3 />
+    <Room>E105</Room>
+    <Capacity>58</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Mass Communication</Name>
+    <Teachers>Mr. Benjamin J. GRAMS</Teachers>
+    <F3 />
+    <Room>E105</Room>
+    <Capacity>58</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Advertising and Society</Name>
+    <Teachers>Ms. Liesl Van Der Merwe</Teachers>
+    <F3 />
+    <Room>D305</Room>
+    <Capacity>60</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Advertising and Society</Name>
+    <Teachers>Ms. Liesl Van Der Merwe</Teachers>
+    <F3 />
+    <Room>D305</Room>
+    <Capacity>60</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Public Relations</Name>
+    <Teachers>Ms. Clare FITZGERALD</Teachers>
+    <F3 />
+    <Room>D406</Room>
+    <Capacity>60</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Public Relations</Name>
+    <Teachers>Ms. Clare FITZGERALD</Teachers>
+    <F3 />
+    <Room>D406</Room>
+    <Capacity>60</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Social Welfare</Name>
+    <Teachers>Prof. Christian ASPALTER</Teachers>
+    <F3 />
+    <Room>E102</Room>
+    <Capacity>60</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Social Welfare</Name>
+    <Teachers>Prof. Christian ASPALTER</Teachers>
+    <F3 />
+    <Room>E102</Room>
+    <Capacity>60</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Case Studies in Screen Writing</Name>
+    <Teachers>Mr. Grady GRANROS</Teachers>
+    <F3 />
+    <Room>E304</Room>
+    <Capacity>68</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Case Studies in Screen Writing</Name>
+    <Teachers>Mr. Grady GRANROS</Teachers>
+    <F3 />
+    <Room>E304</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Hero with a Thousand Faces - Western Knights and Chinese Knights-Errant in Comparative Literary Perspectives</Name>
+    <Teachers>Dr. Andy FUNG</Teachers>
+    <F3 />
+    <Room>D405</Room>
+    <Capacity>64</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Hero with a Thousand Faces - Western Knights and Chinese Knights-Errant in Comparative Literary Perspectives</Name>
+    <Teachers>Dr. Andy FUNG</Teachers>
+    <F3 />
+    <Room>D405</Room>
+    <Capacity>64</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Entrepreneurship and Innovation (1)</Name>
+    <Teachers>Dr. Charles CHOW</Teachers>
+    <F3 />
+    <Room>C303</Room>
+    <Capacity>96</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Entrepreneurship and Innovation (1)</Name>
+    <Teachers>Dr. Charles CHOW</Teachers>
+    <F3 />
+    <Room>C303</Room>
+    <Capacity>96</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>German I (1)</Name>
+    <Teachers>Ms. Katharina YU</Teachers>
+    <F3 />
+    <Room>E303B</Room>
+    <Capacity>30</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>German I (1)</Name>
+    <Teachers>Ms. Katharina YU</Teachers>
+    <F3 />
+    <Room>E303B</Room>
+    <Capacity>30</Capacity>
+    <Date>Thu 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>German II (1)</Name>
+    <Teachers>Mr. Helmut WARMENHOVEN</Teachers>
+    <F3 />
+    <Room>E308A</Room>
+    <Capacity>30</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>German II (1)</Name>
+    <Teachers>Mr. Helmut WARMENHOVEN</Teachers>
+    <F3 />
+    <Room>E308A</Room>
+    <Capacity>30</Capacity>
+    <Date>Thu 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Japanese I (1)</Name>
+    <Teachers>Ms. Hannah XIAO</Teachers>
+    <F3 />
+    <Room>D305</Room>
+    <Capacity>60</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Japanese I (1)</Name>
+    <Teachers>Ms. Hannah XIAO</Teachers>
+    <F3 />
+    <Room>D305</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Modernism in Western Culture</Name>
+    <Teachers>Dr. Milen JISSOV</Teachers>
+    <F3 />
+    <Room>D406</Room>
+    <Capacity>60</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Modernism in Western Culture</Name>
+    <Teachers>Dr. Milen JISSOV</Teachers>
+    <F3 />
+    <Room>D406</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Survey of American Literature (2) (GE)</Name>
+    <Teachers>Prof. James CHEN</Teachers>
+    <F3 />
+    <Room>C406</Room>
+    <Capacity>68</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Survey of American Literature (2) (GE)</Name>
+    <Teachers>Prof. James CHEN</Teachers>
+    <F3 />
+    <Room>C406</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to World Music</Name>
+    <Teachers>Dr. Kris HO</Teachers>
+    <F3 />
+    <Room>C402</Room>
+    <Capacity>48</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to World Music</Name>
+    <Teachers>Dr. Kris HO</Teachers>
+    <F3 />
+    <Room>C402</Room>
+    <Capacity>48</Capacity>
+    <Date>Thu 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Classical Works of Shakespearean and Chinese Tragedy</Name>
+    <Teachers>Dr. Andy FUNG</Teachers>
+    <F3 />
+    <Room>D405</Room>
+    <Capacity>64</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Classical Works of Shakespearean and Chinese Tragedy</Name>
+    <Teachers>Dr. Andy FUNG</Teachers>
+    <F3 />
+    <Room>D405</Room>
+    <Capacity>64</Capacity>
+    <Date>Thu 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Business and Society (1)</Name>
+    <Teachers>Dr. Mark JAMES</Teachers>
+    <F3 />
+    <Room>C306</Room>
+    <Capacity>68</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Business and Society (1)</Name>
+    <Teachers>Dr. Mark JAMES</Teachers>
+    <F3 />
+    <Room>C306</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to World Religions: Western Traditions</Name>
+    <Teachers>Mr. Xiang WANG</Teachers>
+    <F3 />
+    <Room>C307</Room>
+    <Capacity>68</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to World Religions: Western Traditions</Name>
+    <Teachers>Mr. Xiang WANG</Teachers>
+    <F3 />
+    <Room>C307</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Media, Culture and Society</Name>
+    <Teachers>Dr. Siu-han CHAN</Teachers>
+    <F3 />
+    <Room>C405</Room>
+    <Capacity>68</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Media, Culture and Society</Name>
+    <Teachers>Dr. Siu-han CHAN</Teachers>
+    <F3 />
+    <Room>C405</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>French I (2)</Name>
+    <Teachers>Mr. Gweltaz OLIVIERO</Teachers>
+    <F3 />
+    <Room>E303B</Room>
+    <Capacity>30</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>French I (2)</Name>
+    <Teachers>Mr. Gweltaz OLIVIERO</Teachers>
+    <F3 />
+    <Room>E303B</Room>
+    <Capacity>30</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>German III</Name>
+    <Teachers>Ms. Katharina YU</Teachers>
+    <F3 />
+    <Room>E308A</Room>
+    <Capacity>30</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>German III</Name>
+    <Teachers>Ms. Katharina YU</Teachers>
+    <F3 />
+    <Room>E308A</Room>
+    <Capacity>30</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Korean I (2)</Name>
+    <Teachers>Ms. Kyung Mi ROH</Teachers>
+    <F3 />
+    <Room>E308B</Room>
+    <Capacity>30</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Korean I (2)</Name>
+    <Teachers>Ms. Kyung Mi ROH</Teachers>
+    <F3 />
+    <Room>E308B</Room>
+    <Capacity>30</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Korean I (5)</Name>
+    <Teachers>DHSS New Teacher 6</Teachers>
+    <F3 />
+    <Room>C207</Room>
+    <Capacity>72</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Korean I (5)</Name>
+    <Teachers>DHSS New Teacher 6</Teachers>
+    <F3 />
+    <Room>C207</Room>
+    <Capacity>72</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Spanish II (2)</Name>
+    <Teachers>Ms. Roser CERVERA</Teachers>
+    <F3 />
+    <Room>E307</Room>
+    <Capacity>32</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Spanish II (2)</Name>
+    <Teachers>Ms. Roser CERVERA</Teachers>
+    <F3 />
+    <Room>E307</Room>
+    <Capacity>32</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Buddhism</Name>
+    <Teachers>Mr. Xiang WANG</Teachers>
+    <F3 />
+    <Room>D406</Room>
+    <Capacity>60</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Buddhism</Name>
+    <Teachers>Mr. Xiang WANG</Teachers>
+    <F3 />
+    <Room>D406</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Choral Masterpieces of Western Music</Name>
+    <Teachers>Dr. Christopher KRAMPE</Teachers>
+    <F3 />
+    <Room>E102</Room>
+    <Capacity>60</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Choral Masterpieces of Western Music</Name>
+    <Teachers>Dr. Christopher KRAMPE</Teachers>
+    <F3 />
+    <Room>E102</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>European Imperialism</Name>
+    <Teachers>Dr. Milen JISSOV</Teachers>
+    <F3 />
+    <Room>E106</Room>
+    <Capacity>62</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>European Imperialism</Name>
+    <Teachers>Dr. Milen JISSOV</Teachers>
+    <F3 />
+    <Room>E106</Room>
+    <Capacity>62</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Asian Medicine and Globalization</Name>
+    <Teachers>Dr. Nazrul ISLAM</Teachers>
+    <F3 />
+    <Room>D405</Room>
+    <Capacity>64</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Asian Medicine and Globalization</Name>
+    <Teachers>Dr. Nazrul ISLAM</Teachers>
+    <F3 />
+    <Room>D405</Room>
+    <Capacity>64</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Hong Kong Society</Name>
+    <Teachers>Dr. Siu-han CHAN</Teachers>
+    <F3 />
+    <Room>C306</Room>
+    <Capacity>68</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Hong Kong Society</Name>
+    <Teachers>Dr. Siu-han CHAN</Teachers>
+    <F3 />
+    <Room>C306</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Law of Trusts</Name>
+    <Teachers>Prof. Chris LAM</Teachers>
+    <F3 />
+    <Room>C307</Room>
+    <Capacity>68</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Law of Trusts</Name>
+    <Teachers>Prof. Chris LAM</Teachers>
+    <F3 />
+    <Room>C307</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Literature and Cultural Studies</Name>
+    <Teachers>Prof. James CHEN</Teachers>
+    <F3 />
+    <Room>C405</Room>
+    <Capacity>68</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Literature and Cultural Studies</Name>
+    <Teachers>Prof. James CHEN</Teachers>
+    <F3 />
+    <Room>C405</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Psychology (GE) (2)</Name>
+    <Teachers>Dr. Lily LEE</Teachers>
+    <F3 />
+    <Room>C406</Room>
+    <Capacity>68</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Psychology (GE) (2)</Name>
+    <Teachers>Dr. Lily LEE</Teachers>
+    <F3 />
+    <Room>C406</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Business (12) (GE)</Name>
+    <Teachers>Ms. Tammy MENG</Teachers>
+    <F3 />
+    <Room>C209</Room>
+    <Capacity>72</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Business (12) (GE)</Name>
+    <Teachers>Ms. Tammy MENG</Teachers>
+    <F3 />
+    <Room>C203</Room>
+    <Capacity>90</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Business and Society (2)</Name>
+    <Teachers>Dr.Uchenna EZE</Teachers>
+    <F3 />
+    <Room>C407</Room>
+    <Capacity>68</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Business and Society (2)</Name>
+    <Teachers>Dr.Uchenna EZE</Teachers>
+    <F3 />
+    <Room>C407</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>French III</Name>
+    <Teachers>Mr. Gweltaz OLIVIERO</Teachers>
+    <F3 />
+    <Room>E208C</Room>
+    <Capacity>28</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>French III</Name>
+    <Teachers>Mr. Gweltaz OLIVIERO</Teachers>
+    <F3 />
+    <Room>E208C</Room>
+    <Capacity>28</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>German IV</Name>
+    <Teachers>Mr. Helmut WARMENHOVEN</Teachers>
+    <F3 />
+    <Room>E303A</Room>
+    <Capacity>30</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>German IV</Name>
+    <Teachers>Mr. Helmut WARMENHOVEN</Teachers>
+    <F3 />
+    <Room>E303A</Room>
+    <Capacity>30</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Korean II (2)</Name>
+    <Teachers>DHSS New Teacher 6</Teachers>
+    <F3 />
+    <Room>C127</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>History of Music in Film</Name>
+    <Teachers>Dr. Christopher KRAMPE</Teachers>
+    <F3 />
+    <Room>C305</Room>
+    <Capacity>68</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>History of Music in Film</Name>
+    <Teachers>Dr. Christopher KRAMPE</Teachers>
+    <F3 />
+    <Room>C305</Room>
+    <Capacity>68</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+  </Table>
+  <Table>
+  </Table>
+  <Table>
+    <Name>Sociology and Modern Society</Name>
+    <Teachers>Dr. Siu-han CHAN</Teachers>
+    <F3 />
+    <Room>C307</Room>
+    <Capacity>68</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Sociology and Modern Society</Name>
+    <Teachers>Dr. Siu-han CHAN</Teachers>
+    <F3 />
+    <Room>C307</Room>
+    <Capacity>68</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Psychology (GE) (3)</Name>
+    <Teachers>Prof. Mildred YANG</Teachers>
+    <F3 />
+    <Room>C208</Room>
+    <Capacity>72</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Psychology (GE) (3)</Name>
+    <Teachers>Prof. Mildred YANG</Teachers>
+    <F3 />
+    <Room>C301</Room>
+    <Capacity>80</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Practice on Multimedia Processing</Name>
+    <Teachers>Dr. Amy ZHANG</Teachers>
+    <F3 />
+    <Room>E303B</Room>
+    <Capacity>30</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Practice on Multimedia Processing</Name>
+    <Teachers>Dr. Amy ZHANG</Teachers>
+    <F3 />
+    <Room>E303B</Room>
+    <Capacity>30</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Web Application and Development</Name>
+    <Teachers>Dr. Jing ZHAO</Teachers>
+    <F3 />
+    <Room>C405</Room>
+    <Capacity>68</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Web Application and Development</Name>
+    <Teachers>Dr. Jing ZHAO</Teachers>
+    <F3 />
+    <Room>C405</Room>
+    <Capacity>68</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Business Environment in China (1)</Name>
+    <Teachers>Mr. Ben WONG</Teachers>
+    <F3 />
+    <Room>C406</Room>
+    <Capacity>68</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Business Environment in China (1)</Name>
+    <Teachers>Mr. Ben WONG</Teachers>
+    <F3 />
+    <Room>C406</Room>
+    <Capacity>68</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>German I (3)</Name>
+    <Teachers>Ms. Katharina YU</Teachers>
+    <F3 />
+    <Room>E303B</Room>
+    <Capacity>30</Capacity>
+    <Date>Mon 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>German I (5)</Name>
+    <Teachers>Mr. Helmut WARMENHOVEN</Teachers>
+    <F3 />
+    <Room>E308B</Room>
+    <Capacity>30</Capacity>
+    <Date>Mon 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Japanese I (3)</Name>
+    <Teachers>Ms. Hannah XIAO</Teachers>
+    <F3 />
+    <Room>E201</Room>
+    <Capacity>90</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Japanese I (3)</Name>
+    <Teachers>Ms. Hannah XIAO</Teachers>
+    <F3 />
+    <Room>E201</Room>
+    <Capacity>90</Capacity>
+    <Date>Thu 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Marketing (3) (GE)</Name>
+    <Teachers>Dr. Anthony TSUI</Teachers>
+    <F3 />
+    <Room>C204</Room>
+    <Capacity>80</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Marketing (3) (GE)</Name>
+    <Teachers>Dr. Anthony TSUI</Teachers>
+    <F3 />
+    <Room>C204</Room>
+    <Capacity>80</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Management for Non-Business Students</Name>
+    <Teachers>Dr. Karen LEE</Teachers>
+    <F3 />
+    <Room>C304</Room>
+    <Capacity>68</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Management for Non-Business Students</Name>
+    <Teachers>Dr. Karen LEE</Teachers>
+    <F3 />
+    <Room>C302</Room>
+    <Capacity>72</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Corporate Financial Management</Name>
+    <Teachers>Dr. Yong SUN</Teachers>
+    <F3 />
+    <Room>C407</Room>
+    <Capacity>68</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Corporate Financial Management</Name>
+    <Teachers>Dr. Yong SUN</Teachers>
+    <F3 />
+    <Room>C407</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Overseas Chinese Communities</Name>
+    <Teachers>Dr. Kenneth LAN</Teachers>
+    <F3 />
+    <Room>E304</Room>
+    <Capacity>68</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Overseas Chinese Communities</Name>
+    <Teachers>Dr. Kenneth LAN</Teachers>
+    <F3 />
+    <Room>E304</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>The Science of Well Being</Name>
+    <Teachers>Dr. Alan Lai &amp; Dr. Jiehong LIAO &amp; Dr. Siu-Tai TSIM</Teachers>
+    <F3 />
+    <Room>E202</Room>
+    <Capacity>68</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>The Science of Well Being</Name>
+    <Teachers>Dr. Alan Lai &amp; Dr. Jiehong LIAO &amp; Dr. Siu-Tai TSIM</Teachers>
+    <F3 />
+    <Room>E202</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>French I (4)</Name>
+    <Teachers>Ms. Sophie DUBOIS-PEPIN</Teachers>
+    <F3 />
+    <Room>E308A</Room>
+    <Capacity>30</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Gender and Sexuality</Name>
+    <Teachers>Dr. Nazrul ISLAM</Teachers>
+    <F3 />
+    <Room>C125</Room>
+    <Capacity>48</Capacity>
+    <Date>Tue 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Gender and Sexuality</Name>
+    <Teachers>Dr. Nazrul ISLAM</Teachers>
+    <F3 />
+    <Room>B202</Room>
+    <Capacity>248</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>French Culture</Name>
+    <Teachers>Mr. Gweltaz OLIVIERO</Teachers>
+    <F3 />
+    <Room>C123</Room>
+    <Capacity>100</Capacity>
+    <Date>Thu 9:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>French Culture</Name>
+    <Teachers>Mr. Gweltaz OLIVIERO</Teachers>
+    <F3 />
+    <Room>B202</Room>
+    <Capacity>248</Capacity>
+    <Date>Tue 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>The Art and Craft of Songwriting</Name>
+    <Teachers>Dr. Kris HO</Teachers>
+    <F3 />
+    <Room>C402</Room>
+    <Capacity>48</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>The Art and Craft of Songwriting</Name>
+    <Teachers>Dr. Kris HO</Teachers>
+    <F3 />
+    <Room>C402</Room>
+    <Capacity>48</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>German I (2)</Name>
+    <Teachers>Ms. Katharina YU</Teachers>
+    <F3 />
+    <Room>E208C</Room>
+    <Capacity>28</Capacity>
+    <Date>Thu 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>German I (4)</Name>
+    <Teachers>Mr. Helmut WARMENHOVEN</Teachers>
+    <F3 />
+    <Room>E308B</Room>
+    <Capacity>30</Capacity>
+    <Date>Thu 16:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Korean II (1)</Name>
+    <Teachers>Ms. Kyung Mi ROH</Teachers>
+    <F3 />
+    <Room>E208B</Room>
+    <Capacity>28</Capacity>
+    <Date>Wed 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Korean II (1)</Name>
+    <Teachers>Ms. Kyung Mi ROH</Teachers>
+    <F3 />
+    <Room>E303A</Room>
+    <Capacity>30</Capacity>
+    <Date>Thu 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Spanish I (4)</Name>
+    <Teachers>Ms. Betsabe RIERA</Teachers>
+    <F3 />
+    <Room>C303</Room>
+    <Capacity>96</Capacity>
+    <Date>Thu 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Spanish Culture</Name>
+    <Teachers>Ms. Roser CERVERA</Teachers>
+    <F3 />
+    <Room>C125</Room>
+    <Capacity>48</Capacity>
+    <Date>Thu 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Spanish Culture</Name>
+    <Teachers>Ms. Roser CERVERA</Teachers>
+    <F3 />
+    <Room>D306</Room>
+    <Capacity>104</Capacity>
+    <Date>Tue 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Selected Topics on Contemporary Taiwanese Poetry</Name>
+    <Teachers>Dr. Hock Ming LEE</Teachers>
+    <F3 />
+    <Room>C204</Room>
+    <Capacity>80</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Selected Topics on Contemporary Taiwanese Poetry</Name>
+    <Teachers>Dr. Hock Ming LEE</Teachers>
+    <F3 />
+    <Room>C204</Room>
+    <Capacity>80</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Japanese II (2)</Name>
+    <Teachers>Ms. Lily XIAO</Teachers>
+    <F3 />
+    <Room>D302</Room>
+    <Capacity>104</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Japanese II (2)</Name>
+    <Teachers>Ms. Lily XIAO</Teachers>
+    <F3 />
+    <Room>D302</Room>
+    <Capacity>104</Capacity>
+    <Date>Thu 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Economics for Non-Business Students</Name>
+    <Teachers>Mr. Thomas CHAN</Teachers>
+    <F3 />
+    <Room>C208</Room>
+    <Capacity>72</Capacity>
+    <Date>Tue 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Economics for Non-Business Students</Name>
+    <Teachers>Mr. Thomas CHAN</Teachers>
+    <F3 />
+    <Room>C205</Room>
+    <Capacity>116</Capacity>
+    <Date>Thu 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Business Environment in China (2)</Name>
+    <Teachers>Mr. Ben WONG</Teachers>
+    <F3 />
+    <Room>E202</Room>
+    <Capacity>68</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Business Environment in China (2)</Name>
+    <Teachers>Mr. Ben WONG</Teachers>
+    <F3 />
+    <Room>E202</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>French I (3)</Name>
+    <Teachers>Mr. Gweltaz OLIVIERO</Teachers>
+    <F3 />
+    <Room>C125</Room>
+    <Capacity>48</Capacity>
+    <Date>Wed 9:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>French I (3)</Name>
+    <Teachers>Mr. Gweltaz OLIVIERO</Teachers>
+    <F3 />
+    <Room>E205A</Room>
+    <Capacity>86</Capacity>
+    <Date>Thu 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Buddhism and Modern Life</Name>
+    <Teachers>Mr. Xiang WANG</Teachers>
+    <F3 />
+    <Room>E304</Room>
+    <Capacity>68</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Buddhism and Modern Life</Name>
+    <Teachers>Mr. Xiang WANG</Teachers>
+    <F3 />
+    <Room>E304</Room>
+    <Capacity>68</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>German I (6)</Name>
+    <Teachers>Mr. Helmut WARMENHOVEN</Teachers>
+    <F3 />
+    <Room>E308A</Room>
+    <Capacity>30</Capacity>
+    <Date>Thu 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Korean I (6)</Name>
+    <Teachers>DHSS New Teacher 6</Teachers>
+    <F3 />
+    <Room>E208B</Room>
+    <Capacity>28</Capacity>
+    <Date>Mon 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Korean III</Name>
+    <Teachers>DHSS New Teacher 6</Teachers>
+    <F3 />
+    <Room>C407</Room>
+    <Capacity>68</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Korean III</Name>
+    <Teachers>DHSS New Teacher 6</Teachers>
+    <F3 />
+    <Room>C407</Room>
+    <Capacity>68</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>The Modern Annotation of Chinese Traditional Thought</Name>
+    <Teachers>Dr. Tie-zhu DONG</Teachers>
+    <F3 />
+    <Room>E202</Room>
+    <Capacity>68</Capacity>
+    <Date>Fri 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>The Modern Annotation of Chinese Traditional Thought</Name>
+    <Teachers>Dr. Tie-zhu DONG</Teachers>
+    <F3 />
+    <Room>E202</Room>
+    <Capacity>68</Capacity>
+    <Date>Wed 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Japanese Culture</Name>
+    <Teachers>Ms. Lily XIAO</Teachers>
+    <F3 />
+    <Room>C125</Room>
+    <Capacity>48</Capacity>
+    <Date>Fri 13:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Entrepreneurship and Innovation (2)</Name>
+    <Teachers>Mr. Berry KWOCK</Teachers>
+    <F3 />
+    <Room>C302</Room>
+    <Capacity>72</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Entrepreneurship and Innovation (2)</Name>
+    <Teachers>Mr. Berry KWOCK</Teachers>
+    <F3 />
+    <Room>C302</Room>
+    <Capacity>72</Capacity>
+    <Date>Thu 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting I (1)</Name>
+    <Teachers>Dr. Po-Shu AU</Teachers>
+    <Classes>ACCT(Y1)(1)</Classes>
+    <Room>C121</Room>
+    <Capacity>100</Capacity>
+    <Date>Fri 16:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting I (1)</Name>
+    <Teachers>Dr. Po-Shu AU</Teachers>
+    <Classes>ACCT(Y1)(1)</Classes>
+    <Room>C128</Room>
+    <Capacity>60</Capacity>
+    <Date>Tue 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Statistics for Business (4)</Name>
+    <Teachers>Dr. Xiao-Ling PENG</Teachers>
+    <Classes>ACCT(Y1)(1) &amp; ACCT(Y1)(6) &amp; ACCT(Y1)(7)</Classes>
+    <Room>D303</Room>
+    <Capacity>80</Capacity>
+    <Date>Fri 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Statistics for Business (4)</Name>
+    <Teachers>Dr. Xiao-Ling PENG</Teachers>
+    <Classes>ACCT(Y1)(1) &amp; ACCT(Y1)(6) &amp; ACCT(Y1)(7)</Classes>
+    <Room>B303</Room>
+    <Capacity>154</Capacity>
+    <Date>Mon 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (7)</Name>
+    <Teachers>Mr. Eric YANG</Teachers>
+    <Classes>ACCT(Y1)(1) &amp; ACCT(Y1)(6) &amp; ACCT(Y1)(7)</Classes>
+    <Room>C122</Room>
+    <Capacity>100</Capacity>
+    <Date>Tue 16:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (7)</Name>
+    <Teachers>Mr. Eric YANG</Teachers>
+    <Classes>ACCT(Y1)(1) &amp; ACCT(Y1)(6) &amp; ACCT(Y1)(7)</Classes>
+    <Room>E201</Room>
+    <Capacity>90</Capacity>
+    <Date>Mon 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Information Technology (1)</Name>
+    <Teachers>Dr. Amy ZHANG</Teachers>
+    <Classes>ACCT(Y1)(1) &amp; ACCT(Y1)(6) &amp; ACCT(Y1)(7)</Classes>
+    <Room>C403</Room>
+    <Capacity>102</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Information Technology (1)</Name>
+    <Teachers>Dr. Amy ZHANG</Teachers>
+    <Classes>ACCT(Y1)(1) &amp; ACCT(Y1)(6) &amp; ACCT(Y1)(7)</Classes>
+    <Room>D404</Room>
+    <Capacity>94</Capacity>
+    <Date>Thu 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting I (2)</Name>
+    <Teachers>Dr. Po-Shu AU</Teachers>
+    <Classes>ACCT(Y1)(2)</Classes>
+    <Room>E305</Room>
+    <Capacity>140</Capacity>
+    <Date>Tue 16:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting I (2)</Name>
+    <Teachers>Dr. Po-Shu AU</Teachers>
+    <Classes>ACCT(Y1)(2)</Classes>
+    <Room>D405</Room>
+    <Capacity>64</Capacity>
+    <Date>Thu 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Statistics for Business (5)</Name>
+    <Teachers>Dr. Dennis CHEUNG</Teachers>
+    <Classes>ACCT(Y1)(2) &amp; ACCT(Y1)(4)</Classes>
+    <Room>C205</Room>
+    <Capacity>116</Capacity>
+    <Date>Thu 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Statistics for Business (5)</Name>
+    <Teachers>Dr. Dennis CHEUNG</Teachers>
+    <Classes>ACCT(Y1)(2) &amp; ACCT(Y1)(4)</Classes>
+    <Room>C123</Room>
+    <Capacity>100</Capacity>
+    <Date>Fri 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (9)</Name>
+    <Teachers>Dr. Hong-Yu WU</Teachers>
+    <Classes>ACCT(Y1)(2) &amp; ACCT(Y1)(4)</Classes>
+    <Room>D303</Room>
+    <Capacity>80</Capacity>
+    <Date>Mon 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (9)</Name>
+    <Teachers>Dr. Hong-Yu WU</Teachers>
+    <Classes>ACCT(Y1)(2) &amp; ACCT(Y1)(4)</Classes>
+    <Room>E201</Room>
+    <Capacity>90</Capacity>
+    <Date>Fri 9:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Information Technology (2)</Name>
+    <Teachers>Dr. Jing ZHAO</Teachers>
+    <Classes>ACCT(Y1)(2) &amp; ACCT(Y1)(4)</Classes>
+    <Room>C403</Room>
+    <Capacity>102</Capacity>
+    <Date>Thu 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Information Technology (2)</Name>
+    <Teachers>Dr. Jing ZHAO</Teachers>
+    <Classes>ACCT(Y1)(2) &amp; ACCT(Y1)(4)</Classes>
+    <Room>E204</Room>
+    <Capacity>76</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting I (3)</Name>
+    <Teachers>Dr. Donna CHAN</Teachers>
+    <Classes>ACCT(Y1)(3)</Classes>
+    <Room>B301</Room>
+    <Capacity>242</Capacity>
+    <Date>Fri 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting I (3)</Name>
+    <Teachers>Dr. Donna CHAN</Teachers>
+    <Classes>ACCT(Y1)(3)</Classes>
+    <Room>D407</Room>
+    <Capacity>70</Capacity>
+    <Date>Tue 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Information Technology (3)</Name>
+    <Teachers>Ms. Chun-Yan JI</Teachers>
+    <Classes>ACCT(Y1)(3) &amp; ACCT(Y1)(5)</Classes>
+    <Room>C403</Room>
+    <Capacity>102</Capacity>
+    <Date>Fri 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Information Technology (3)</Name>
+    <Teachers>Ms. Chun-Yan JI</Teachers>
+    <Classes>ACCT(Y1)(3) &amp; ACCT(Y1)(5)</Classes>
+    <Room>C203</Room>
+    <Capacity>90</Capacity>
+    <Date>Thu 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Statistics for Business (6)</Name>
+    <Teachers>New STAT teacher I</Teachers>
+    <Classes>ACCT(Y1)(3) &amp; ACCT(Y1)(5)</Classes>
+    <Room>D306</Room>
+    <Capacity>104</Capacity>
+    <Date>Mon 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Statistics for Business (6)</Name>
+    <Teachers>New STAT teacher I</Teachers>
+    <Classes>ACCT(Y1)(3) &amp; ACCT(Y1)(5)</Classes>
+    <Room>C207</Room>
+    <Capacity>72</Capacity>
+    <Date>Wed 8:00-8:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (3)</Name>
+    <Teachers>Dr. Qin WANG</Teachers>
+    <Classes>ACCT(Y1)(3) &amp; ACCT(Y1)(5)</Classes>
+    <Room>B303</Room>
+    <Capacity>154</Capacity>
+    <Date>Tue 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (3)</Name>
+    <Teachers>Dr. Qin WANG</Teachers>
+    <Classes>ACCT(Y1)(3) &amp; ACCT(Y1)(5)</Classes>
+    <Room>D303</Room>
+    <Capacity>80</Capacity>
+    <Date>Thu 8:00-8:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting I (4)</Name>
+    <Teachers>Dr. Donna CHAN</Teachers>
+    <Classes>ACCT(Y1)(4) &amp; ACCT(Y1)(6)</Classes>
+    <Room>C205</Room>
+    <Capacity>116</Capacity>
+    <Date>Thu 16:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting I (4)</Name>
+    <Teachers>Dr. Donna CHAN</Teachers>
+    <Classes>ACCT(Y1)(4) &amp; ACCT(Y1)(6)</Classes>
+    <Room>C208</Room>
+    <Capacity>72</Capacity>
+    <Date>Wed 8:00-8:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting I (5)</Name>
+    <Teachers>Dr. Donna CHAN</Teachers>
+    <Classes>ACCT(Y1)(5) &amp; ACCT(Y1)(7)</Classes>
+    <Room>B302</Room>
+    <Capacity>198</Capacity>
+    <Date>Thu 9:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting I (5)</Name>
+    <Teachers>Dr. Donna CHAN</Teachers>
+    <Classes>ACCT(Y1)(5) &amp; ACCT(Y1)(7)</Classes>
+    <Room>B203</Room>
+    <Capacity>154</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Business Communications (1)</Name>
+    <Teachers>Ms. Wei-Ying TANG</Teachers>
+    <Classes>ACCT(Y2)(1)</Classes>
+    <Room>C208</Room>
+    <Capacity>72</Capacity>
+    <Date>Mon 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Business Communications (1)</Name>
+    <Teachers>Ms. Wei-Ying TANG</Teachers>
+    <Classes>ACCT(Y2)(1)</Classes>
+    <Room>D408</Room>
+    <Capacity>72</Capacity>
+    <Date>Thu 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Intermediate Accounting I (1)</Name>
+    <Teachers>Dr. Po-Shu AU</Teachers>
+    <Classes>ACCT(Y2)(1)</Classes>
+    <Room>C210</Room>
+    <Capacity>72</Capacity>
+    <Date>Fri 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Intermediate Accounting I (1)</Name>
+    <Teachers>Dr. Po-Shu AU</Teachers>
+    <Classes>ACCT(Y2)(1)</Classes>
+    <Room>C304</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 8:00-8:50</Date>
+  </Table>
+  <Table>
+    <Name>Organizational Behaviour (1)</Name>
+    <Teachers>Dr. Kwan Ling Ng</Teachers>
+    <Classes>ACCT(Y2)(1)</Classes>
+    <Room>B303</Room>
+    <Capacity>154</Capacity>
+    <Date>Fri 16:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Organizational Behaviour (1)</Name>
+    <Teachers>Dr. Kwan Ling Ng</Teachers>
+    <Classes>ACCT(Y2)(1)</Classes>
+    <Room>C121</Room>
+    <Capacity>100</Capacity>
+    <Date>Mon 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Experiential Arts (2) (Tie Dyeing)</Name>
+    <Teachers>Ms. Angie QIN</Teachers>
+    <Classes>ACCT(Y2)(1) &amp; ACCT(Y2)(2) &amp; ACCT(Y2)(3) &amp; ACCT(Y2)(4) &amp; MHR(Y2)(1)</Classes>
+    <Room>D303</Room>
+    <Capacity>80</Capacity>
+    <Date>Wed 14:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Experiential Arts (2) (Ceramic Painting)</Name>
+    <Teachers>Ms. Jamie DONG</Teachers>
+    <Classes>ACCT(Y2)(1) &amp; ACCT(Y2)(2) &amp; ACCT(Y2)(3) &amp; ACCT(Y2)(4) &amp; MHR(Y2)(1)</Classes>
+    <Room>D405</Room>
+    <Capacity>64</Capacity>
+    <Date>Wed 14:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Organizational Behaviour (2)</Name>
+    <Teachers>Dr. Kwan Ling Ng</Teachers>
+    <Classes>ACCT(Y2)(2)</Classes>
+    <Room>C303</Room>
+    <Capacity>96</Capacity>
+    <Date>Wed 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Organizational Behaviour (2)</Name>
+    <Teachers>Dr. Kwan Ling Ng</Teachers>
+    <Classes>ACCT(Y2)(2)</Classes>
+    <Room>C303</Room>
+    <Capacity>96</Capacity>
+    <Date>Fri 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Intermediate Accounting I (2)</Name>
+    <Teachers>Dr. Po-Shu AU</Teachers>
+    <Classes>ACCT(Y2)(2)</Classes>
+    <Room>D404</Room>
+    <Capacity>94</Capacity>
+    <Date>Mon 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Intermediate Accounting I (2)</Name>
+    <Teachers>Dr. Po-Shu AU</Teachers>
+    <Classes>ACCT(Y2)(2)</Classes>
+    <Room>C406</Room>
+    <Capacity>68</Capacity>
+    <Date>Fri 8:00-8:50</Date>
+  </Table>
+  <Table>
+    <Name>Business Communications (2)</Name>
+    <Teachers>Ms. Wei-Ying TANG</Teachers>
+    <Classes>ACCT(Y2)(2)</Classes>
+    <Room>E301</Room>
+    <Capacity>82</Capacity>
+    <Date>Fri 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Business Communications (2)</Name>
+    <Teachers>Ms. Wei-Ying TANG</Teachers>
+    <Classes>ACCT(Y2)(2)</Classes>
+    <Room>C209</Room>
+    <Capacity>72</Capacity>
+    <Date>Thu 8:00-8:50</Date>
+  </Table>
+  <Table>
+    <Name>Business Communications (3)</Name>
+    <Teachers>Mr. Alexander KOCSIS</Teachers>
+    <Classes>ACCT(Y2)(3)</Classes>
+    <Room>C208</Room>
+    <Capacity>72</Capacity>
+    <Date>Mon 13:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Intermediate Accounting I (3)</Name>
+    <Teachers>Ms. Michele KWOK</Teachers>
+    <Classes>ACCT(Y2)(3)</Classes>
+    <Room>B303</Room>
+    <Capacity>154</Capacity>
+    <Date>Thu 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Intermediate Accounting I (3)</Name>
+    <Teachers>Ms. Michele KWOK</Teachers>
+    <Classes>ACCT(Y2)(3)</Classes>
+    <Room>C203</Room>
+    <Capacity>90</Capacity>
+    <Date>Mon 16:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Organizational Behaviour (3)</Name>
+    <Teachers>Dr. Chung-Il CHOI</Teachers>
+    <Classes>ACCT(Y2)(3)</Classes>
+    <Room>E204</Room>
+    <Capacity>76</Capacity>
+    <Date>Mon 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Organizational Behaviour (3)</Name>
+    <Teachers>Dr. Chung-Il CHOI</Teachers>
+    <Classes>ACCT(Y2)(3)</Classes>
+    <Room>D404</Room>
+    <Capacity>94</Capacity>
+    <Date>Wed 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Intermediate Accounting I (4)</Name>
+    <Teachers>Ms. Michele KWOK</Teachers>
+    <Classes>ACCT(Y2)(4)</Classes>
+    <Room>C301</Room>
+    <Capacity>80</Capacity>
+    <Date>Mon 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Intermediate Accounting I (4)</Name>
+    <Teachers>Ms. Michele KWOK</Teachers>
+    <Classes>ACCT(Y2)(4)</Classes>
+    <Room>E301</Room>
+    <Capacity>82</Capacity>
+    <Date>Thu 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Organizational Behaviour (4)</Name>
+    <Teachers>Dr. Charles CHOW</Teachers>
+    <Classes>ACCT(Y2)(4)</Classes>
+    <Room>C301</Room>
+    <Capacity>80</Capacity>
+    <Date>Wed 9:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Organizational Behaviour (4)</Name>
+    <Teachers>Dr. Charles CHOW</Teachers>
+    <Classes>ACCT(Y2)(4)</Classes>
+    <Room>C121</Room>
+    <Capacity>100</Capacity>
+    <Date>Fri 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Business Communications (4)</Name>
+    <Teachers>Mr. Alexander KOCSIS</Teachers>
+    <Classes>ACCT(Y2)(4)</Classes>
+    <Room>C406</Room>
+    <Capacity>68</Capacity>
+    <Date>Mon 9:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Intermediate Accounting II (1)</Name>
+    <Teachers>Dr. Raymond HO</Teachers>
+    <Classes>ACCT(Y3)(1)</Classes>
+    <Room>B302</Room>
+    <Capacity>198</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Intermediate Accounting II (1)</Name>
+    <Teachers>Dr. Raymond HO</Teachers>
+    <Classes>ACCT(Y3)(1)</Classes>
+    <Room>C204</Room>
+    <Capacity>80</Capacity>
+    <Date>Mon 8:00-8:50</Date>
+  </Table>
+  <Table>
+    <Name>Cost and Management Accounting II (1)</Name>
+    <Teachers>Mr. Thomas WONG</Teachers>
+    <Classes>ACCT(Y3)(1)</Classes>
+    <Room>C122</Room>
+    <Capacity>100</Capacity>
+    <Date>Thu 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Cost and Management Accounting II (1)</Name>
+    <Teachers>Mr. Thomas WONG</Teachers>
+    <Classes>ACCT(Y3)(1)</Classes>
+    <Room>E101</Room>
+    <Capacity>76</Capacity>
+    <Date>Mon 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Company Law (1)</Name>
+    <Teachers>Mr. Tony CHOW</Teachers>
+    <Classes>ACCT(Y3)(1)</Classes>
+    <Room>C126</Room>
+    <Capacity>60</Capacity>
+    <Date>Mon 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Company Law (1)</Name>
+    <Teachers>Mr. Tony CHOW</Teachers>
+    <Classes>ACCT(Y3)(1)</Classes>
+    <Room>C207</Room>
+    <Capacity>72</Capacity>
+    <Date>Fri 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Management Information Systems (1)</Name>
+    <Teachers>Dr. May WANG</Teachers>
+    <Classes>ACCT(Y3)(1) &amp; ACCT(Y3)(2) &amp; ACCT(Y3)(3) &amp; ACCT(Y3)(4) &amp; ACCT(Y3)(5)</Classes>
+    <Room>C205</Room>
+    <Capacity>116</Capacity>
+    <Date>Tue 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Management Information Systems (1)</Name>
+    <Teachers>Dr. May WANG</Teachers>
+    <Classes>ACCT(Y3)(1) &amp; ACCT(Y3)(2) &amp; ACCT(Y3)(3) &amp; ACCT(Y3)(4) &amp; ACCT(Y3)(5)</Classes>
+    <Room>C210</Room>
+    <Capacity>72</Capacity>
+    <Date>Thu 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Management Information Systems (2)</Name>
+    <Teachers>Dr. May WANG</Teachers>
+    <Classes>ACCT(Y3)(1) &amp; ACCT(Y3)(2) &amp; ACCT(Y3)(3) &amp; ACCT(Y3)(4) &amp; ACCT(Y3)(5)</Classes>
+    <Room>C303</Room>
+    <Capacity>96</Capacity>
+    <Date>Mon 9:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Management Information Systems (2)</Name>
+    <Teachers>Dr. May WANG</Teachers>
+    <Classes>ACCT(Y3)(1) &amp; ACCT(Y3)(2) &amp; ACCT(Y3)(3) &amp; ACCT(Y3)(4) &amp; ACCT(Y3)(5)</Classes>
+    <Room>E202</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 16:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Tax Planning and Management (2)</Name>
+    <Teachers>Mr. Chung-fat AU-YEUNG</Teachers>
+    <Classes>ACCT(Y3)(1) &amp; ACCT(Y3)(2) &amp; ACCT(Y3)(3) &amp; ACCT(Y3)(4) &amp; ACCT(Y3)(5)</Classes>
+    <Room>C203</Room>
+    <Capacity>90</Capacity>
+    <Date>Mon 9:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Tax Planning and Management (2)</Name>
+    <Teachers>Mr. Chung-fat AU-YEUNG</Teachers>
+    <Classes>ACCT(Y3)(1) &amp; ACCT(Y3)(2) &amp; ACCT(Y3)(3) &amp; ACCT(Y3)(4) &amp; ACCT(Y3)(5)</Classes>
+    <Room>C407</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 16:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Tax Planning and Management (1)</Name>
+    <Teachers>Mr. Chung-fat AU-YEUNG</Teachers>
+    <Classes>ACCT(Y3)(1) &amp; ACCT(Y3)(2) &amp; ACCT(Y3)(3) &amp; ACCT(Y3)(4) &amp; ACCT(Y3)(5)</Classes>
+    <Room>D306</Room>
+    <Capacity>104</Capacity>
+    <Date>Tue 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Tax Planning and Management (1)</Name>
+    <Teachers>Mr. Chung-fat AU-YEUNG</Teachers>
+    <Classes>ACCT(Y3)(1) &amp; ACCT(Y3)(2) &amp; ACCT(Y3)(3) &amp; ACCT(Y3)(4) &amp; ACCT(Y3)(5)</Classes>
+    <Room>C209</Room>
+    <Capacity>72</Capacity>
+    <Date>Thu 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Financial Management (1)</Name>
+    <Teachers>Dr. Zemin LU</Teachers>
+    <Classes>ACCT(Y3)(1) &amp; ENVS(Y4)(CEM)</Classes>
+    <Room>E301</Room>
+    <Capacity>82</Capacity>
+    <Date>Mon 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Financial Management (1)</Name>
+    <Teachers>Dr. Zemin LU</Teachers>
+    <Classes>ACCT(Y3)(1) &amp; ENVS(Y4)(CEM)</Classes>
+    <Room>C303</Room>
+    <Capacity>96</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Cost and Management Accounting II (2)</Name>
+    <Teachers>Ms. Sarah CHOW</Teachers>
+    <Classes>ACCT(Y3)(2)</Classes>
+    <Room>C303</Room>
+    <Capacity>96</Capacity>
+    <Date>Mon 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Cost and Management Accounting II (2)</Name>
+    <Teachers>Ms. Sarah CHOW</Teachers>
+    <Classes>ACCT(Y3)(2)</Classes>
+    <Room>D408</Room>
+    <Capacity>72</Capacity>
+    <Date>Tue 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Company Law (2)</Name>
+    <Teachers>Mr. Tony CHOW</Teachers>
+    <Classes>ACCT(Y3)(2)</Classes>
+    <Room>C203</Room>
+    <Capacity>90</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Company Law (2)</Name>
+    <Teachers>Mr. Tony CHOW</Teachers>
+    <Classes>ACCT(Y3)(2)</Classes>
+    <Room>E205B</Room>
+    <Capacity>80</Capacity>
+    <Date>Mon 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Intermediate Accounting II (2)</Name>
+    <Teachers>Mr. Neil James DOUGLAS</Teachers>
+    <Classes>ACCT(Y3)(2)</Classes>
+    <Room>B202</Room>
+    <Capacity>248</Capacity>
+    <Date>Fri 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Intermediate Accounting II (2)</Name>
+    <Teachers>Mr. Neil James DOUGLAS</Teachers>
+    <Classes>ACCT(Y3)(2)</Classes>
+    <Room>C210</Room>
+    <Capacity>72</Capacity>
+    <Date>Thu 8:00-8:50</Date>
+  </Table>
+  <Table>
+    <Name>Financial Management (2)</Name>
+    <Teachers>Dr. Wing-sun LI</Teachers>
+    <Classes>ACCT(Y3)(2) &amp; ENVS(Y4)(CEM)</Classes>
+    <Room>C303</Room>
+    <Capacity>96</Capacity>
+    <Date>Mon 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Financial Management (2)</Name>
+    <Teachers>Dr. Wing-sun LI</Teachers>
+    <Classes>ACCT(Y3)(2) &amp; ENVS(Y4)(CEM)</Classes>
+    <Room>C301</Room>
+    <Capacity>80</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Company Law (3)</Name>
+    <Teachers>Ms. Christine WOO</Teachers>
+    <Classes>ACCT(Y3)(3)</Classes>
+    <Room>D303</Room>
+    <Capacity>80</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Company Law (3)</Name>
+    <Teachers>Ms. Christine WOO</Teachers>
+    <Classes>ACCT(Y3)(3)</Classes>
+    <Room>D305</Room>
+    <Capacity>60</Capacity>
+    <Date>Mon 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Intermediate Accounting II (3)</Name>
+    <Teachers>Mr. Joseph LIANG</Teachers>
+    <Classes>ACCT(Y3)(3)</Classes>
+    <Room>C304</Room>
+    <Capacity>68</Capacity>
+    <Date>Sat 13:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Cost and Management Accounting II (3)</Name>
+    <Teachers>Ms. Sarah CHOW</Teachers>
+    <Classes>ACCT(Y3)(3)</Classes>
+    <Room>E305</Room>
+    <Capacity>140</Capacity>
+    <Date>Fri 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Cost and Management Accounting II (3)</Name>
+    <Teachers>Ms. Sarah CHOW</Teachers>
+    <Classes>ACCT(Y3)(3)</Classes>
+    <Room>D407</Room>
+    <Capacity>70</Capacity>
+    <Date>Mon 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Financial Management (3)</Name>
+    <Teachers>Mr. Thomas WONG</Teachers>
+    <Classes>ACCT(Y3)(3) &amp; ENVS(Y4)(CEM)</Classes>
+    <Room>C205</Room>
+    <Capacity>116</Capacity>
+    <Date>Mon 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Financial Management (3)</Name>
+    <Teachers>Mr. Thomas WONG</Teachers>
+    <Classes>ACCT(Y3)(3) &amp; ENVS(Y4)(CEM)</Classes>
+    <Room>C205</Room>
+    <Capacity>116</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Cost and Management Accounting II (4)</Name>
+    <Teachers>Ms. Sarah CHOW</Teachers>
+    <Classes>ACCT(Y3)(4)</Classes>
+    <Room>D407</Room>
+    <Capacity>70</Capacity>
+    <Date>Thu 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Cost and Management Accounting II (4)</Name>
+    <Teachers>Ms. Sarah CHOW</Teachers>
+    <Classes>ACCT(Y3)(4)</Classes>
+    <Room>E205A</Room>
+    <Capacity>86</Capacity>
+    <Date>Tue 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Company Law (4)</Name>
+    <Teachers>Ms. Christine WOO</Teachers>
+    <Classes>ACCT(Y3)(4)</Classes>
+    <Room>D404</Room>
+    <Capacity>94</Capacity>
+    <Date>Mon 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Company Law (4)</Name>
+    <Teachers>Ms. Christine WOO</Teachers>
+    <Classes>ACCT(Y3)(4)</Classes>
+    <Room>C407</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Intermediate Accounting II (4)</Name>
+    <Teachers>Mr. Joseph LIANG</Teachers>
+    <Classes>ACCT(Y3)(4)</Classes>
+    <Room>C304</Room>
+    <Capacity>68</Capacity>
+    <Date>Sat 9:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Financial Management (4)</Name>
+    <Teachers>Mr. Neil James DOUGLAS</Teachers>
+    <Classes>ACCT(Y3)(4)</Classes>
+    <Room>B202</Room>
+    <Capacity>248</Capacity>
+    <Date>Mon 16:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Financial Management (4)</Name>
+    <Teachers>Mr. Neil James DOUGLAS</Teachers>
+    <Classes>ACCT(Y3)(4)</Classes>
+    <Room>C209</Room>
+    <Capacity>72</Capacity>
+    <Date>Fri 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Financial Management (5)</Name>
+    <Teachers>Dr. Yong SUN</Teachers>
+    <Classes>ACCT(Y3)(5)</Classes>
+    <Room>D306</Room>
+    <Capacity>104</Capacity>
+    <Date>Fri 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Financial Management (5)</Name>
+    <Teachers>Dr. Yong SUN</Teachers>
+    <Classes>ACCT(Y3)(5)</Classes>
+    <Room>C125</Room>
+    <Capacity>48</Capacity>
+    <Date>Thu 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Company Law (5)</Name>
+    <Teachers>Ms. Christine WOO</Teachers>
+    <Classes>ACCT(Y3)(5)</Classes>
+    <Room>C406</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Company Law (5)</Name>
+    <Teachers>Ms. Christine WOO</Teachers>
+    <Classes>ACCT(Y3)(5)</Classes>
+    <Room>C123</Room>
+    <Capacity>100</Capacity>
+    <Date>Wed 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Intermediate Accounting II (5)</Name>
+    <Teachers>Ms. Mabel HO</Teachers>
+    <Classes>ACCT(Y3)(5)</Classes>
+    <Room>E103</Room>
+    <Capacity>58</Capacity>
+    <Date>Mon 12:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Cost and Management Accounting II (5)</Name>
+    <Teachers>Prof. M.Y CHAN</Teachers>
+    <Classes>ACCT(Y3)(5)</Classes>
+    <Room>E103</Room>
+    <Capacity>58</Capacity>
+    <Date>Tue 14:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Advanced Accounting II (2)</Name>
+    <Teachers>Mr. Allan YEUNG</Teachers>
+    <Classes>ACCT(Y4)</Classes>
+    <Room>C207</Room>
+    <Capacity>72</Capacity>
+    <Date>Fri 10:00-12:50</Date>
+  </Table>
+  <Table>
+    <Name>Advanced Accounting II (1)</Name>
+    <Teachers>Mr. Allan YEUNG</Teachers>
+    <Classes>ACCT(Y4)</Classes>
+    <Room>C207</Room>
+    <Capacity>72</Capacity>
+    <Date>Thu 15:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Advanced Accounting II (3)</Name>
+    <Teachers>Mr. Allan YEUNG</Teachers>
+    <Classes>ACCT(Y4)</Classes>
+    <Room>C207</Room>
+    <Capacity>72</Capacity>
+    <Date>Fri 14:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Auditing II</Name>
+    <Teachers>Dr. Raymond HO</Teachers>
+    <Classes>ACCT(Y4)</Classes>
+    <Room>C301</Room>
+    <Capacity>80</Capacity>
+    <Date>Mon 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Auditing II</Name>
+    <Teachers>Dr. Raymond HO</Teachers>
+    <Classes>ACCT(Y4)</Classes>
+    <Room>C203</Room>
+    <Capacity>90</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Business (1)</Name>
+    <Teachers>Dr. May WANG</Teachers>
+    <Classes>AE(Y1)(1)</Classes>
+    <Room>C203</Room>
+    <Capacity>90</Capacity>
+    <Date>Mon 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Business (1)</Name>
+    <Teachers>Dr. May WANG</Teachers>
+    <Classes>AE(Y1)(1)</Classes>
+    <Room>C208</Room>
+    <Capacity>72</Capacity>
+    <Date>Thu 8:00-8:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Microeconomics (1)</Name>
+    <Teachers>Dr. Zemin LU</Teachers>
+    <Classes>AE(Y1)(1)</Classes>
+    <Room>C302</Room>
+    <Capacity>72</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Microeconomics (1)</Name>
+    <Teachers>Dr. Zemin LU</Teachers>
+    <Classes>AE(Y1)(1)</Classes>
+    <Room>E202</Room>
+    <Capacity>68</Capacity>
+    <Date>Mon 9:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (4)</Name>
+    <Teachers>Dr. Hock Ming LEE</Teachers>
+    <Classes>AE(Y1)(1) &amp; AE(Y1)(5)</Classes>
+    <Room>C405</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Mathematics for Business (5)</Name>
+    <Teachers>Dr. Galen PAPKOV</Teachers>
+    <Classes>AE(Y1)(1) &amp; AE(Y1)(5)</Classes>
+    <Room>C123</Room>
+    <Capacity>100</Capacity>
+    <Date>Fri 16:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Mathematics for Business (5)</Name>
+    <Teachers>Dr. Galen PAPKOV</Teachers>
+    <Classes>AE(Y1)(1) &amp; AE(Y1)(5)</Classes>
+    <Room>B301</Room>
+    <Capacity>242</Capacity>
+    <Date>Thu 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Business (2)</Name>
+    <Teachers>Dr. Patrick PAK</Teachers>
+    <Classes>AE(Y1)(2)</Classes>
+    <Room>B302</Room>
+    <Capacity>198</Capacity>
+    <Date>Thu 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Business (2)</Name>
+    <Teachers>Dr. Patrick PAK</Teachers>
+    <Classes>AE(Y1)(2)</Classes>
+    <Room>B302</Room>
+    <Capacity>198</Capacity>
+    <Date>Mon 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Microeconomics (2)</Name>
+    <Teachers>Dr. Patrick PAK</Teachers>
+    <Classes>AE(Y1)(2)</Classes>
+    <Room>E305</Room>
+    <Capacity>140</Capacity>
+    <Date>Fri 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Microeconomics (2)</Name>
+    <Teachers>Dr. Patrick PAK</Teachers>
+    <Classes>AE(Y1)(2)</Classes>
+    <Room>C306</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 8:00-8:50</Date>
+  </Table>
+  <Table>
+    <Name>Mathematics for Business (6)</Name>
+    <Teachers>Dr. Dennis CHEUNG</Teachers>
+    <Classes>AE(Y1)(2) &amp; AE(Y1)(6)</Classes>
+    <Room>D303</Room>
+    <Capacity>80</Capacity>
+    <Date>Mon 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Mathematics for Business (6)</Name>
+    <Teachers>Dr. Dennis CHEUNG</Teachers>
+    <Classes>AE(Y1)(2) &amp; AE(Y1)(6)</Classes>
+    <Room>D305</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (5)</Name>
+    <Teachers>Dr. Qin WANG</Teachers>
+    <Classes>AE(Y1)(2) &amp; AE(Y1)(6)</Classes>
+    <Room>E205A</Room>
+    <Capacity>86</Capacity>
+    <Date>Mon 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (5)</Name>
+    <Teachers>Dr. Qin WANG</Teachers>
+    <Classes>AE(Y1)(2) &amp; AE(Y1)(6)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (8)</Name>
+    <Teachers>Ms. Lily LIANG</Teachers>
+    <Classes>AE(Y1)(3) &amp; AE(Y1)(4)</Classes>
+    <Room>C207</Room>
+    <Capacity>72</Capacity>
+    <Date>Mon 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (8)</Name>
+    <Teachers>Ms. Lily LIANG</Teachers>
+    <Classes>AE(Y1)(3) &amp; AE(Y1)(4)</Classes>
+    <Room>C125</Room>
+    <Capacity>48</Capacity>
+    <Date>Fri 16:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Mathematics for Business (7)</Name>
+    <Teachers>Dr. Xiao-Ling PENG</Teachers>
+    <Classes>AE(Y1)(3) &amp; AE(Y1)(4)</Classes>
+    <Room>B301</Room>
+    <Capacity>242</Capacity>
+    <Date>Mon 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Mathematics for Business (7)</Name>
+    <Teachers>Dr. Xiao-Ling PENG</Teachers>
+    <Classes>AE(Y1)(3) &amp; AE(Y1)(4)</Classes>
+    <Room>E201</Room>
+    <Capacity>90</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Microeconomics (3)</Name>
+    <Teachers>Dr. Patrick PAK</Teachers>
+    <Classes>AE(Y1)(3) &amp; AE(Y1)(5)</Classes>
+    <Room>C204</Room>
+    <Capacity>80</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Microeconomics (3)</Name>
+    <Teachers>Dr. Patrick PAK</Teachers>
+    <Classes>AE(Y1)(3) &amp; AE(Y1)(5)</Classes>
+    <Room>D303</Room>
+    <Capacity>80</Capacity>
+    <Date>Mon 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Business (3)</Name>
+    <Teachers>Ms. Wei-Ying TANG</Teachers>
+    <Classes>AE(Y1)(3) &amp; AE(Y1)(5)</Classes>
+    <Room>D404</Room>
+    <Capacity>94</Capacity>
+    <Date>Thu 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Business (3)</Name>
+    <Teachers>Ms. Wei-Ying TANG</Teachers>
+    <Classes>AE(Y1)(3) &amp; AE(Y1)(5)</Classes>
+    <Room>D404</Room>
+    <Capacity>94</Capacity>
+    <Date>Fri 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Business (4)</Name>
+    <Teachers>Mr. Berry KWOCK</Teachers>
+    <Classes>AE(Y1)(4) &amp; AE(Y1)(6)</Classes>
+    <Room>B203</Room>
+    <Capacity>154</Capacity>
+    <Date>Wed 9:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Business (4)</Name>
+    <Teachers>Mr. Berry KWOCK</Teachers>
+    <Classes>AE(Y1)(4) &amp; AE(Y1)(6)</Classes>
+    <Room>C122</Room>
+    <Capacity>100</Capacity>
+    <Date>Fri 9:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Microeconomics (4)</Name>
+    <Teachers>Dr. Angela DU</Teachers>
+    <Classes>AE(Y1)(4) &amp; AE(Y1)(6)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Tue 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Microeconomics (4)</Name>
+    <Teachers>Dr. Angela DU</Teachers>
+    <Classes>AE(Y1)(4) &amp; AE(Y1)(6)</Classes>
+    <Room>C301</Room>
+    <Capacity>80</Capacity>
+    <Date>Thu 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting II (1)</Name>
+    <Teachers>Mr. Thomas WONG</Teachers>
+    <Classes>AE(Y2)(1)</Classes>
+    <Room>C303</Room>
+    <Capacity>96</Capacity>
+    <Date>Fri 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting II (1)</Name>
+    <Teachers>Mr. Thomas WONG</Teachers>
+    <Classes>AE(Y2)(1)</Classes>
+    <Room>C128</Room>
+    <Capacity>60</Capacity>
+    <Date>Mon 8:00-8:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Law (1)</Name>
+    <Teachers>Mr. Tony CHOW</Teachers>
+    <Classes>AE(Y2)(1)</Classes>
+    <Room>B301</Room>
+    <Capacity>242</Capacity>
+    <Date>Thu 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Law (1)</Name>
+    <Teachers>Mr. Tony CHOW</Teachers>
+    <Classes>AE(Y2)(1)</Classes>
+    <Room>C128</Room>
+    <Capacity>60</Capacity>
+    <Date>Mon 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Experiential Arts (1) (Melodica)</Name>
+    <Teachers>Ms. Sandra LAU</Teachers>
+    <Classes>AE(Y2)(1) &amp; AE(Y2)(2) &amp; AE(Y2)(3) &amp; AE(Y2)(4) &amp; CCM(Y2)(1) &amp; CCM(Y2)(2)</Classes>
+    <Room>E103</Room>
+    <Capacity>58</Capacity>
+    <Date>Wed 14:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Experiential Arts (1) (Japanese Handicraft)</Name>
+    <Teachers>Ms. Hannah XIAO</Teachers>
+    <Classes>AE(Y2)(1) &amp; AE(Y2)(2) &amp; AE(Y2)(3) &amp; AE(Y2)(4) &amp; CCM(Y2)(1) &amp; CCM(Y2)(2)</Classes>
+    <Room>C405</Room>
+    <Capacity>68</Capacity>
+    <Date>Wed 14:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Law (2)</Name>
+    <Teachers>Ms. Christine WOO</Teachers>
+    <Classes>AE(Y2)(2)</Classes>
+    <Room>E201</Room>
+    <Capacity>90</Capacity>
+    <Date>Fri 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Law (2)</Name>
+    <Teachers>Ms. Christine WOO</Teachers>
+    <Classes>AE(Y2)(2)</Classes>
+    <Room>E201</Room>
+    <Capacity>90</Capacity>
+    <Date>Wed 9:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting II (2)</Name>
+    <Teachers>Dr. Wing-sun LI</Teachers>
+    <Classes>AE(Y2)(2)</Classes>
+    <Room>E102</Room>
+    <Capacity>60</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting II (2)</Name>
+    <Teachers>Dr. Wing-sun LI</Teachers>
+    <Classes>AE(Y2)(2)</Classes>
+    <Room>D303</Room>
+    <Capacity>80</Capacity>
+    <Date>Tue 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting II (3)</Name>
+    <Teachers>Mr. Chung-fat AU-YEUNG</Teachers>
+    <Classes>AE(Y2)(3)</Classes>
+    <Room>D404</Room>
+    <Capacity>94</Capacity>
+    <Date>Fri 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting II (3)</Name>
+    <Teachers>Mr. Chung-fat AU-YEUNG</Teachers>
+    <Classes>AE(Y2)(3)</Classes>
+    <Room>D404</Room>
+    <Capacity>94</Capacity>
+    <Date>Mon 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Law (3)</Name>
+    <Teachers>Ms. Jue WANG</Teachers>
+    <Classes>AE(Y2)(3)</Classes>
+    <Room>D404</Room>
+    <Capacity>94</Capacity>
+    <Date>Wed 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Law (3)</Name>
+    <Teachers>Ms. Jue WANG</Teachers>
+    <Classes>AE(Y2)(3)</Classes>
+    <Room>C204</Room>
+    <Capacity>80</Capacity>
+    <Date>Thu 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Law (4)</Name>
+    <Teachers>Mr. Raymond KONG</Teachers>
+    <Classes>AE(Y2)(4)</Classes>
+    <Room>C207</Room>
+    <Capacity>72</Capacity>
+    <Date>Thu 10:00-12:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting II (4)</Name>
+    <Teachers>Mr. Chung-fat AU-YEUNG</Teachers>
+    <Classes>AE(Y2)(4)</Classes>
+    <Room>C405</Room>
+    <Capacity>68</Capacity>
+    <Date>Mon 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting II (4)</Name>
+    <Teachers>Mr. Chung-fat AU-YEUNG</Teachers>
+    <Classes>AE(Y2)(4)</Classes>
+    <Room>C301</Room>
+    <Capacity>80</Capacity>
+    <Date>Thu 8:00-8:50</Date>
+  </Table>
+  <Table>
+    <Name>Business Communications (5)</Name>
+    <Teachers>Dr.Uchenna EZE</Teachers>
+    <Classes>AE(Y3)(1)</Classes>
+    <Room>E201</Room>
+    <Capacity>90</Capacity>
+    <Date>Mon 9:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Foundations of Chinese Economy (1)</Name>
+    <Teachers>Dr. Marco Chi-Keung LAU</Teachers>
+    <Classes>AE(Y3)(1)</Classes>
+    <Room>B203</Room>
+    <Capacity>154</Capacity>
+    <Date>Thu 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Foundations of Chinese Economy (1)</Name>
+    <Teachers>Dr. Marco Chi-Keung LAU</Teachers>
+    <Classes>AE(Y3)(1)</Classes>
+    <Room>C126</Room>
+    <Capacity>60</Capacity>
+    <Date>Mon 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Intermediate Macroeconomics (1)</Name>
+    <Teachers>Dr. Zemin LU</Teachers>
+    <Classes>AE(Y3)(1)</Classes>
+    <Room>D301</Room>
+    <Capacity>146</Capacity>
+    <Date>Mon 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Intermediate Macroeconomics (1)</Name>
+    <Teachers>Dr. Zemin LU</Teachers>
+    <Classes>AE(Y3)(1)</Classes>
+    <Room>E204</Room>
+    <Capacity>76</Capacity>
+    <Date>Fri 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Asia-Pacific Economies (1)</Name>
+    <Teachers>Dr. Ming-Lu WU</Teachers>
+    <Classes>AE(Y3)(1)</Classes>
+    <Room>C128</Room>
+    <Capacity>60</Capacity>
+    <Date>Tue 16:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Asia-Pacific Economies (1)</Name>
+    <Teachers>Dr. Ming-Lu WU</Teachers>
+    <Classes>AE(Y3)(1)</Classes>
+    <Room>C301</Room>
+    <Capacity>80</Capacity>
+    <Date>Wed 8:00-8:50</Date>
+  </Table>
+  <Table>
+    <Name>Business Management in China (1)</Name>
+    <Teachers>Mr. Ben WONG</Teachers>
+    <Classes>AE(Y3)(1) &amp; AE(Y3)(2) &amp; AE(Y3)(3) &amp; AE(Y3)(4)</Classes>
+    <Room>D305</Room>
+    <Capacity>60</Capacity>
+    <Date>Mon 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Business Management in China (1)</Name>
+    <Teachers>Mr. Ben WONG</Teachers>
+    <Classes>AE(Y3)(1) &amp; AE(Y3)(2) &amp; AE(Y3)(3) &amp; AE(Y3)(4)</Classes>
+    <Room>C128</Room>
+    <Capacity>60</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Business Management in China (2)</Name>
+    <Teachers>Mr. Ben WONG</Teachers>
+    <Classes>AE(Y3)(1) &amp; AE(Y3)(2) &amp; AE(Y3)(3) &amp; AE(Y3)(4)</Classes>
+    <Room>E105</Room>
+    <Capacity>58</Capacity>
+    <Date>Thu 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Business Management in China (2)</Name>
+    <Teachers>Mr. Ben WONG</Teachers>
+    <Classes>AE(Y3)(1) &amp; AE(Y3)(2) &amp; AE(Y3)(3) &amp; AE(Y3)(4)</Classes>
+    <Room>D306</Room>
+    <Capacity>104</Capacity>
+    <Date>Wed 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>International Business (1)</Name>
+    <Teachers>Dr. Mark JAMES</Teachers>
+    <Classes>AE(Y3)(1) &amp; AE(Y3)(2) &amp; AE(Y3)(3) &amp; AE(Y3)(4)</Classes>
+    <Room>C209</Room>
+    <Capacity>72</Capacity>
+    <Date>Mon 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>International Business (1)</Name>
+    <Teachers>Dr. Mark JAMES</Teachers>
+    <Classes>AE(Y3)(1) &amp; AE(Y3)(2) &amp; AE(Y3)(3) &amp; AE(Y3)(4)</Classes>
+    <Room>D303</Room>
+    <Capacity>80</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>International Business (2)</Name>
+    <Teachers>Dr. Charles CHOW</Teachers>
+    <Classes>AE(Y3)(1) &amp; AE(Y3)(2) &amp; AE(Y3)(3) &amp; AE(Y3)(4)</Classes>
+    <Room>C301</Room>
+    <Capacity>80</Capacity>
+    <Date>Fri 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>International Business (2)</Name>
+    <Teachers>Dr. Charles CHOW</Teachers>
+    <Classes>AE(Y3)(1) &amp; AE(Y3)(2) &amp; AE(Y3)(3) &amp; AE(Y3)(4)</Classes>
+    <Room>D404</Room>
+    <Capacity>94</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Marketing (1)</Name>
+    <Teachers>Dr. Anthony TSUI</Teachers>
+    <Classes>AE(Y3)(1) &amp; AE(Y3)(2) &amp; AE(Y3)(3) &amp; AE(Y3)(4) &amp; ENVS(Y3)(CEM)</Classes>
+    <Room>C204</Room>
+    <Capacity>80</Capacity>
+    <Date>Thu 19:00-20:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Marketing (1)</Name>
+    <Teachers>Dr. Anthony TSUI</Teachers>
+    <Classes>AE(Y3)(1) &amp; AE(Y3)(2) &amp; AE(Y3)(3) &amp; AE(Y3)(4) &amp; ENVS(Y3)(CEM)</Classes>
+    <Room>C303</Room>
+    <Capacity>96</Capacity>
+    <Date>Wed 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Marketing (2)</Name>
+    <Teachers>Dr. Angela MA</Teachers>
+    <Classes>AE(Y3)(1) &amp; AE(Y3)(2) &amp; AE(Y3)(3) &amp; AE(Y3)(4) &amp; FST(Y3) &amp; FST(Y4)</Classes>
+    <Room>C203</Room>
+    <Capacity>90</Capacity>
+    <Date>Fri 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Marketing (2)</Name>
+    <Teachers>Dr. Angela MA</Teachers>
+    <Classes>AE(Y3)(1) &amp; AE(Y3)(2) &amp; AE(Y3)(3) &amp; AE(Y3)(4) &amp; FST(Y3) &amp; FST(Y4)</Classes>
+    <Room>C203</Room>
+    <Capacity>90</Capacity>
+    <Date>Wed 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Business Communications (6)</Name>
+    <Teachers>Dr. Steve YANG</Teachers>
+    <Classes>AE(Y3)(2)</Classes>
+    <Room>B303</Room>
+    <Capacity>154</Capacity>
+    <Date>Thu 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Business Communications (6)</Name>
+    <Teachers>Dr. Steve YANG</Teachers>
+    <Classes>AE(Y3)(2)</Classes>
+    <Room>C127</Room>
+    <Capacity>60</Capacity>
+    <Date>Mon 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Intermediate Macroeconomics (2)</Name>
+    <Teachers>Mr. Kenny Teguh PRIBADI</Teachers>
+    <Classes>AE(Y3)(2)</Classes>
+    <Room>C122</Room>
+    <Capacity>100</Capacity>
+    <Date>Fri 16:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Intermediate Macroeconomics (2)</Name>
+    <Teachers>Mr. Kenny Teguh PRIBADI</Teachers>
+    <Classes>AE(Y3)(2)</Classes>
+    <Room>D303</Room>
+    <Capacity>80</Capacity>
+    <Date>Mon 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Foundations of Chinese Economy (2)</Name>
+    <Teachers>Dr. Marco Chi-Keung LAU</Teachers>
+    <Classes>AE(Y3)(2)</Classes>
+    <Room>B303</Room>
+    <Capacity>154</Capacity>
+    <Date>Wed 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Foundations of Chinese Economy (2)</Name>
+    <Teachers>Dr. Marco Chi-Keung LAU</Teachers>
+    <Classes>AE(Y3)(2)</Classes>
+    <Room>C303</Room>
+    <Capacity>96</Capacity>
+    <Date>Tue 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Asia-Pacific Economies (2)</Name>
+    <Teachers>Dr. Ming-Lu WU</Teachers>
+    <Classes>AE(Y3)(2)</Classes>
+    <Room>C128</Room>
+    <Capacity>60</Capacity>
+    <Date>Mon 9:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Asia-Pacific Economies (2)</Name>
+    <Teachers>Dr. Ming-Lu WU</Teachers>
+    <Classes>AE(Y3)(2)</Classes>
+    <Room>E104</Room>
+    <Capacity>58</Capacity>
+    <Date>Thu 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Business Communications (7)</Name>
+    <Teachers>Dr. Steve YANG</Teachers>
+    <Classes>AE(Y3)(3)</Classes>
+    <Room>E102</Room>
+    <Capacity>60</Capacity>
+    <Date>Wed 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Business Communications (7)</Name>
+    <Teachers>Dr. Steve YANG</Teachers>
+    <Classes>AE(Y3)(3)</Classes>
+    <Room>E307</Room>
+    <Capacity>32</Capacity>
+    <Date>Mon 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Intermediate Macroeconomics (3)</Name>
+    <Teachers>Dr. Terence FUNG</Teachers>
+    <Classes>AE(Y3)(3)</Classes>
+    <Room>C124</Room>
+    <Capacity>112</Capacity>
+    <Date>Thu 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Intermediate Macroeconomics (3)</Name>
+    <Teachers>Dr. Terence FUNG</Teachers>
+    <Classes>AE(Y3)(3)</Classes>
+    <Room>D301</Room>
+    <Capacity>146</Capacity>
+    <Date>Mon 9:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Asia-Pacific Economies (3)</Name>
+    <Teachers>Dr. Ming-Lu WU</Teachers>
+    <Classes>AE(Y3)(3)</Classes>
+    <Room>C303</Room>
+    <Capacity>96</Capacity>
+    <Date>Fri 16:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Asia-Pacific Economies (3)</Name>
+    <Teachers>Dr. Ming-Lu WU</Teachers>
+    <Classes>AE(Y3)(3)</Classes>
+    <Room>C407</Room>
+    <Capacity>68</Capacity>
+    <Date>Mon 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Foundations of Chinese Economy (3)</Name>
+    <Teachers>Dr. Marco Chi-Keung LAU</Teachers>
+    <Classes>AE(Y3)(3) &amp; ENVS(Y4)(CEM)</Classes>
+    <Room>D405</Room>
+    <Capacity>64</Capacity>
+    <Date>Tue 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Foundations of Chinese Economy (3)</Name>
+    <Teachers>Dr. Marco Chi-Keung LAU</Teachers>
+    <Classes>AE(Y3)(3) &amp; ENVS(Y4)(CEM)</Classes>
+    <Room>E105</Room>
+    <Capacity>58</Capacity>
+    <Date>Thu 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Business Communications (8)</Name>
+    <Teachers>Mr. Francis POON</Teachers>
+    <Classes>AE(Y3)(4)</Classes>
+    <Room>D302</Room>
+    <Capacity>104</Capacity>
+    <Date>Mon 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Business Communications (8)</Name>
+    <Teachers>Mr. Francis POON</Teachers>
+    <Classes>AE(Y3)(4)</Classes>
+    <Room>B301</Room>
+    <Capacity>242</Capacity>
+    <Date>Tue 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Intermediate Macroeconomics (4)</Name>
+    <Teachers>Mr. Thomas CHAN</Teachers>
+    <Classes>AE(Y3)(4)</Classes>
+    <Room>B202</Room>
+    <Capacity>248</Capacity>
+    <Date>Thu 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Asia-Pacific Economies (4)</Name>
+    <Teachers>Dr. Marco Chi-Keung LAU</Teachers>
+    <Classes>AE(Y3)(4)</Classes>
+    <Room>D302</Room>
+    <Capacity>104</Capacity>
+    <Date>Tue 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Asia-Pacific Economies (4)</Name>
+    <Teachers>Dr. Marco Chi-Keung LAU</Teachers>
+    <Classes>AE(Y3)(4)</Classes>
+    <Room>E301</Room>
+    <Capacity>82</Capacity>
+    <Date>Thu 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Foundations of Chinese Economy (4)</Name>
+    <Teachers>Dr. Ming-Lu WU</Teachers>
+    <Classes>AE(Y3)(4) &amp; ENVS(Y3)(CEM)</Classes>
+    <Room>B202</Room>
+    <Capacity>248</Capacity>
+    <Date>Thu 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Foundations of Chinese Economy (4)</Name>
+    <Teachers>Dr. Ming-Lu WU</Teachers>
+    <Classes>AE(Y3)(4) &amp; ENVS(Y3)(CEM)</Classes>
+    <Room>D306</Room>
+    <Capacity>104</Capacity>
+    <Date>Wed 9:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Industrial Organization (1)</Name>
+    <Teachers>Dr. Yun Kwong KWOK</Teachers>
+    <Classes>AE(Y4)(1)</Classes>
+    <Room>E301</Room>
+    <Capacity>82</Capacity>
+    <Date>Wed 8:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Industrial Organization (2)</Name>
+    <Teachers>Dr. Yun Kwong KWOK</Teachers>
+    <Classes>AE(Y4)(2)</Classes>
+    <Room>B301</Room>
+    <Capacity>242</Capacity>
+    <Date>Thu 15:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Industrial Organization (3)</Name>
+    <Teachers>Dr. Yun Kwong KWOK</Teachers>
+    <Classes>AE(Y4)(3)</Classes>
+    <Room>B302</Room>
+    <Capacity>198</Capacity>
+    <Date>Tue 15:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Industrial Organization (4)</Name>
+    <Teachers>Dr. Angela DU</Teachers>
+    <Classes>AE(Y4)(4)</Classes>
+    <Room>B203</Room>
+    <Capacity>154</Capacity>
+    <Date>Fri 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Industrial Organization (4)</Name>
+    <Teachers>Dr. Angela DU</Teachers>
+    <Classes>AE(Y4)(4)</Classes>
+    <Room>B203</Room>
+    <Capacity>154</Capacity>
+    <Date>Mon 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Information Technology (8)</Name>
+    <Teachers>Dr. Louis TANG</Teachers>
+    <Classes>APSY(Y1)</Classes>
+    <Room>C403</Room>
+    <Capacity>102</Capacity>
+    <Date>Thu 16:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Information Technology (8)</Name>
+    <Teachers>Dr. Louis TANG</Teachers>
+    <Classes>APSY(Y1)</Classes>
+    <Room>C127</Room>
+    <Capacity>60</Capacity>
+    <Date>Wed 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Developmental Psychology</Name>
+    <Teachers>Dr. Yi-Lung KUO</Teachers>
+    <Classes>APSY(Y1)</Classes>
+    <Room>C125</Room>
+    <Capacity>48</Capacity>
+    <Date>Mon 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Developmental Psychology</Name>
+    <Teachers>Dr. Yi-Lung KUO</Teachers>
+    <Classes>APSY(Y1)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Thu 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Statistics for Science (for Non-Statistics students only) (2)</Name>
+    <Teachers>Dr. Galen PAPKOV</Teachers>
+    <Classes>APSY(Y1)</Classes>
+    <Room>C126</Room>
+    <Capacity>60</Capacity>
+    <Date>Mon 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Statistics for Science (for Non-Statistics students only) (2)</Name>
+    <Teachers>Dr. Galen PAPKOV</Teachers>
+    <Classes>APSY(Y1)</Classes>
+    <Room>E205B</Room>
+    <Capacity>80</Capacity>
+    <Date>Thu 8:00-8:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (14)</Name>
+    <Teachers>Dr. Bing-Zhao WU</Teachers>
+    <Classes>APSY(Y1) &amp; CST(Y1)</Classes>
+    <Room>C205</Room>
+    <Capacity>116</Capacity>
+    <Date>Fri 16:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (14)</Name>
+    <Teachers>Dr. Bing-Zhao WU</Teachers>
+    <Classes>APSY(Y1) &amp; CST(Y1)</Classes>
+    <Room>C203</Room>
+    <Capacity>90</Capacity>
+    <Date>Mon 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Physical Education/Healthy Living (4) (Step Aerobics, Pilates)</Name>
+    <Teachers>Ms. Maggie DANG</Teachers>
+    <Classes>APSY(Y1) &amp; FST(Y1) &amp; STAT(Y1)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Tue 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Physical Education/Healthy Living (4) (rock climbing)</Name>
+    <Teachers>Mr. ZENG</Teachers>
+    <Classes>APSY(Y1) &amp; FST(Y1) &amp; STAT(Y1)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Tue 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Physical Education/Healthy Living (4) (Rugby, Frisbee)</Name>
+    <Teachers>Mr. Peng GAO</Teachers>
+    <Classes>APSY(Y1) &amp; FST(Y1) &amp; STAT(Y1)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Tue 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Physical Education/Healthy Living (4) (Badminton, Foot shuttlecock)</Name>
+    <Teachers>Dr. Arthur XU</Teachers>
+    <Classes>APSY(Y1) &amp; FST(Y1) &amp; STAT(Y1)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Tue 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Physical Education/Healthy Living (4) (Frisbee, Rugby)</Name>
+    <Teachers>Ms. Yi-Shan TANG</Teachers>
+    <Classes>APSY(Y1) &amp; FST(Y1) &amp; STAT(Y1)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Tue 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Social Psychology</Name>
+    <Teachers>Dr. Lily LEE</Teachers>
+    <Classes>APSY(Y2)</Classes>
+    <Room>C125</Room>
+    <Capacity>48</Capacity>
+    <Date>Thu 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Social Psychology</Name>
+    <Teachers>Dr. Lily LEE</Teachers>
+    <Classes>APSY(Y2)</Classes>
+    <Room>C122</Room>
+    <Capacity>100</Capacity>
+    <Date>Tue 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Experimental Psychology</Name>
+    <Teachers>Ms. Cora LEUNG &amp; Ms. Zoey LI</Teachers>
+    <Classes>APSY(Y2)</Classes>
+    <Room>C127</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Experimental Psychology</Name>
+    <Teachers>Ms. Cora LEUNG &amp; Ms. Zoey LI</Teachers>
+    <Classes>APSY(Y2)</Classes>
+    <Room>E204</Room>
+    <Capacity>76</Capacity>
+    <Date>Mon 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Applied Ethics (8)</Name>
+    <Teachers>Dr. Lucinda LI</Teachers>
+    <Classes>APSY(Y2)</Classes>
+    <Room>D303</Room>
+    <Capacity>80</Capacity>
+    <Date>Thu 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Applied Ethics (8)</Name>
+    <Teachers>Dr. Lucinda LI</Teachers>
+    <Classes>APSY(Y2)</Classes>
+    <Room>D303</Room>
+    <Capacity>80</Capacity>
+    <Date>Tue 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Psychology of Cultural Diversity</Name>
+    <Teachers>Dr. Alan Lai</Teachers>
+    <Classes>APSY(Y2)</Classes>
+    <Room>C204</Room>
+    <Capacity>80</Capacity>
+    <Date>Wed 18:00-19:50</Date>
+  </Table>
+  <Table>
+    <Name>Psychology of Cultural Diversity</Name>
+    <Teachers>Dr. Alan Lai</Teachers>
+    <Classes>APSY(Y2)</Classes>
+    <Room>E304</Room>
+    <Capacity>68</Capacity>
+    <Date>Mon 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Psychological Assessment and Testing</Name>
+    <Teachers>Dr. Yi-Lung KUO</Teachers>
+    <Classes>APSY(Y2)</Classes>
+    <Room>E305</Room>
+    <Capacity>140</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Psychological Assessment and Testing</Name>
+    <Teachers>Dr. Yi-Lung KUO</Teachers>
+    <Classes>APSY(Y2)</Classes>
+    <Room>C209</Room>
+    <Capacity>72</Capacity>
+    <Date>Tue 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Voluntary Service (3) (Open Project)</Name>
+    <Teachers>Mr. Ice YANG</Teachers>
+    <Classes>APSY(Y2) &amp; CELL(Y2) &amp; CST(Y2) &amp; FM(Y2) &amp; TESL(Y2)</Classes>
+    <Room>E302</Room>
+    <Capacity>68</Capacity>
+    <Date>Fri 15:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Voluntary Service (3) (Elderly Service)</Name>
+    <Teachers>Ms. Connie LAI</Teachers>
+    <Classes>APSY(Y2) &amp; CELL(Y2) &amp; CST(Y2) &amp; FM(Y2) &amp; TESL(Y2)</Classes>
+    <Room>E103</Room>
+    <Capacity>58</Capacity>
+    <Date>Fri 15:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Voluntary Service (3) (Children Service)</Name>
+    <Teachers>Ms. Katy ZHANG</Teachers>
+    <Classes>APSY(Y2) &amp; CELL(Y2) &amp; CST(Y2) &amp; FM(Y2) &amp; TESL(Y2)</Classes>
+    <Room>E101</Room>
+    <Capacity>76</Capacity>
+    <Date>Fri 15:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Voluntary Service (3) (Migrant Workers Service)</Name>
+    <Teachers>Ms. Angel LUO</Teachers>
+    <Classes>APSY(Y2) &amp; CELL(Y2) &amp; CST(Y2) &amp; FM(Y2) &amp; TESL(Y2)</Classes>
+    <Room>E104</Room>
+    <Capacity>58</Capacity>
+    <Date>Fri 15:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Abnormal Psychology</Name>
+    <Teachers>Dr. Lily LEE</Teachers>
+    <Classes>APSY(Y3)</Classes>
+    <Room>C128</Room>
+    <Capacity>60</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Abnormal Psychology</Name>
+    <Teachers>Dr. Lily LEE</Teachers>
+    <Classes>APSY(Y3)</Classes>
+    <Room>C205</Room>
+    <Capacity>116</Capacity>
+    <Date>Wed 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Psychology of the Chinese People</Name>
+    <Teachers>Dr. Alan Lai</Teachers>
+    <Classes>APSY(Y3)</Classes>
+    <Room>C127</Room>
+    <Capacity>60</Capacity>
+    <Date>Fri 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Psychology of the Chinese People</Name>
+    <Teachers>Dr. Alan Lai</Teachers>
+    <Classes>APSY(Y3)</Classes>
+    <Room>D405</Room>
+    <Capacity>64</Capacity>
+    <Date>Mon 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Motivation and Emotion</Name>
+    <Teachers>Dr. Yi-Lung KUO</Teachers>
+    <Classes>APSY(Y3)</Classes>
+    <Room>C125</Room>
+    <Capacity>48</Capacity>
+    <Date>Mon 16:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Motivation and Emotion</Name>
+    <Teachers>Dr. Yi-Lung KUO</Teachers>
+    <Classes>APSY(Y3)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Tue 16:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Consumer Psychology</Name>
+    <Teachers>Dr. Alan Lai</Teachers>
+    <Classes>APSY(Y3)</Classes>
+    <Room>C127</Room>
+    <Capacity>60</Capacity>
+    <Date>Fri 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Consumer Psychology</Name>
+    <Teachers>Dr. Alan Lai</Teachers>
+    <Classes>APSY(Y3)</Classes>
+    <Room>D408</Room>
+    <Capacity>72</Capacity>
+    <Date>Mon 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Industrial and Organizational Psychology</Name>
+    <Teachers>Dr. Ghee HO</Teachers>
+    <Classes>APSY(Y3)</Classes>
+    <Room>E102</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 16:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Industrial and Organizational Psychology</Name>
+    <Teachers>Dr. Ghee HO</Teachers>
+    <Classes>APSY(Y3)</Classes>
+    <Room>B202</Room>
+    <Capacity>248</Capacity>
+    <Date>Mon 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to the Study of Literature (2)</Name>
+    <Teachers>Dr. Hari Ram ADHIKARI</Teachers>
+    <Classes>ATS(Y1)</Classes>
+    <Room>C121</Room>
+    <Capacity>100</Capacity>
+    <Date>Mon 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to the Study of Literature (2)</Name>
+    <Teachers>Dr. Hari Ram ADHIKARI</Teachers>
+    <Classes>ATS(Y1)</Classes>
+    <Room>E202</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles and Methods of Translation</Name>
+    <Teachers>Dr. Elaine NG</Teachers>
+    <Classes>ATS(Y1)</Classes>
+    <Room>C124</Room>
+    <Capacity>112</Capacity>
+    <Date>Wed 9:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles and Methods of Translation</Name>
+    <Teachers>Dr. Elaine NG</Teachers>
+    <Classes>ATS(Y1)</Classes>
+    <Room>D406</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 8:00-8:50</Date>
+  </Table>
+  <Table>
+    <Name>Statistics for Non-Science (3)</Name>
+    <Teachers>Ms. You-Mei LIU</Teachers>
+    <Classes>ATS(Y1) &amp; CELL(Y1)</Classes>
+    <Room>E205B</Room>
+    <Capacity>80</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Statistics for Non-Science (3)</Name>
+    <Teachers>Ms. You-Mei LIU</Teachers>
+    <Classes>ATS(Y1) &amp; CELL(Y1)</Classes>
+    <Room>C121</Room>
+    <Capacity>100</Capacity>
+    <Date>Tue 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (19)</Name>
+    <Teachers>Ms. Ishtar KUNG</Teachers>
+    <Classes>ATS(Y1) &amp; CELL(Y1)</Classes>
+    <Room>B302</Room>
+    <Capacity>198</Capacity>
+    <Date>Fri 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (19)</Name>
+    <Teachers>Ms. Ishtar KUNG</Teachers>
+    <Classes>ATS(Y1) &amp; CELL(Y1)</Classes>
+    <Room>E205B</Room>
+    <Capacity>80</Capacity>
+    <Date>Thu 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Physical Education/Healthy Living (1) (Aerobics, Pilates)</Name>
+    <Teachers>Ms. Maggie DANG</Teachers>
+    <Classes>ATS(Y1) &amp; ENVS(Y1) &amp; PRA(Y1)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Mon 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Physical Education/Healthy Living (1) (Rugby, Frisbee)</Name>
+    <Teachers>Mr. Peng GAO</Teachers>
+    <Classes>ATS(Y1) &amp; ENVS(Y1) &amp; PRA(Y1)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Mon 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Physical Education/Healthy Living (1) (Badminton, Foot shuttlecock)</Name>
+    <Teachers>Dr. Arthur XU</Teachers>
+    <Classes>ATS(Y1) &amp; ENVS(Y1) &amp; PRA(Y1)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Mon 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Physical Education/Healthy Living (1) (Self Defence, Taichi)</Name>
+    <Teachers>Ms. Helen HAN</Teachers>
+    <Classes>ATS(Y1) &amp; ENVS(Y1) &amp; PRA(Y1)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Mon 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Physical Education/Healthy Living (1) (Frisbee, Rugby)</Name>
+    <Teachers>Ms. Yi-Shan TANG</Teachers>
+    <Classes>ATS(Y1) &amp; ENVS(Y1) &amp; PRA(Y1)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Mon 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Practical Translation II</Name>
+    <Teachers>Dr. Gary LINEBARGER</Teachers>
+    <Classes>ATS(Y2)</Classes>
+    <Room>C204</Room>
+    <Capacity>80</Capacity>
+    <Date>Mon 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Practical Translation II</Name>
+    <Teachers>Dr. Gary LINEBARGER</Teachers>
+    <Classes>ATS(Y2)</Classes>
+    <Room>C402</Room>
+    <Capacity>48</Capacity>
+    <Date>Tue 16:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Contrastive Language Studies: English and Chinese</Name>
+    <Teachers>Dr. Gary LINEBARGER</Teachers>
+    <Classes>ATS(Y2)</Classes>
+    <Room>C302</Room>
+    <Capacity>72</Capacity>
+    <Date>Wed 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Applied Ethics (2)</Name>
+    <Teachers>Dr. Irene FUNG</Teachers>
+    <Classes>ATS(Y2)</Classes>
+    <Room>C122</Room>
+    <Capacity>100</Capacity>
+    <Date>Tue 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Translation of Scientific and Technological Texts</Name>
+    <Teachers>Mr. Wei JIN</Teachers>
+    <Classes>ATS(Y2) &amp; ATS(Y3)(1) &amp; ATS(Y3)(2)</Classes>
+    <Room>E102</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Legal and Government Document Translation</Name>
+    <Teachers>Mr. Wei JIN</Teachers>
+    <Classes>ATS(Y2) &amp; ATS(Y3)(1) &amp; ATS(Y3)(2)</Classes>
+    <Room>E201</Room>
+    <Capacity>90</Capacity>
+    <Date>Tue 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Voluntary Service (1) (Open Project)</Name>
+    <Teachers>Mr. Ice YANG</Teachers>
+    <Classes>ATS(Y2) &amp; CTV(Y2)(1) &amp; CTV(Y2)(2) &amp; GIR(Y2) &amp; PRA(Y2)(1) &amp; PRA(Y2)(2) &amp; SWSA(Y2)</Classes>
+    <Room>E104</Room>
+    <Capacity>58</Capacity>
+    <Date>Mon 15:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Voluntary Service (1) (Migrant Workers Service)</Name>
+    <Teachers>Ms. Angel LUO</Teachers>
+    <Classes>ATS(Y2) &amp; CTV(Y2)(1) &amp; CTV(Y2)(2) &amp; GIR(Y2) &amp; PRA(Y2)(1) &amp; PRA(Y2)(2) &amp; SWSA(Y2)</Classes>
+    <Room>E103</Room>
+    <Capacity>58</Capacity>
+    <Date>Mon 15:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Voluntary Service (1) (Elderly Service)</Name>
+    <Teachers>Ms. Connie LAI</Teachers>
+    <Classes>ATS(Y2) &amp; CTV(Y2)(1) &amp; CTV(Y2)(2) &amp; GIR(Y2) &amp; PRA(Y2)(1) &amp; PRA(Y2)(2) &amp; SWSA(Y2)</Classes>
+    <Room>E105</Room>
+    <Capacity>58</Capacity>
+    <Date>Mon 15:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Voluntary Service (1) (Children Service)</Name>
+    <Teachers>Ms. Katy ZHANG</Teachers>
+    <Classes>ATS(Y2) &amp; CTV(Y2)(1) &amp; CTV(Y2)(2) &amp; GIR(Y2) &amp; PRA(Y2)(1) &amp; PRA(Y2)(2) &amp; SWSA(Y2)</Classes>
+    <Room>E102</Room>
+    <Capacity>60</Capacity>
+    <Date>Mon 15:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Professional Studies</Name>
+    <Teachers>Mr. Wei JIN</Teachers>
+    <Classes>ATS(Y3)(1) &amp; ATS(Y3)(2)</Classes>
+    <Room>C124</Room>
+    <Capacity>112</Capacity>
+    <Date>Tue 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Professional Studies</Name>
+    <Teachers>Mr. Wei JIN</Teachers>
+    <Classes>ATS(Y3)(1) &amp; ATS(Y3)(2)</Classes>
+    <Room>D405</Room>
+    <Capacity>64</Capacity>
+    <Date>Thu 8:00-8:50</Date>
+  </Table>
+  <Table>
+    <Name>Theories and Philosophies I</Name>
+    <Teachers>Dr. Elaine NG</Teachers>
+    <Classes>ATS(Y3)(1) &amp; ATS(Y3)(2)</Classes>
+    <Room>C124</Room>
+    <Capacity>112</Capacity>
+    <Date>Mon 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Theories and Philosophies I</Name>
+    <Teachers>Dr. Elaine NG</Teachers>
+    <Classes>ATS(Y3)(1) &amp; ATS(Y3)(2)</Classes>
+    <Room>C126</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Research Methods for Translation Studies</Name>
+    <Teachers>Dr. Elaine NG</Teachers>
+    <Classes>ATS(Y3)(1) &amp; ATS(Y3)(2)</Classes>
+    <Room>D301</Room>
+    <Capacity>146</Capacity>
+    <Date>Tue 16:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Research Methods for Translation Studies</Name>
+    <Teachers>Dr. Elaine NG</Teachers>
+    <Classes>ATS(Y3)(1) &amp; ATS(Y3)(2)</Classes>
+    <Room>C127</Room>
+    <Capacity>60</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Interpreting II (1)</Name>
+    <Teachers>Ms. Dawn TSANG</Teachers>
+    <Classes>ATS(Y3)(1) &amp; ATS(Y3)(2)</Classes>
+    <Room>F310</Room>
+    <Capacity>50</Capacity>
+    <Date>Wed 8:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Practical Translation III</Name>
+    <Teachers>Ms. Dawn TSANG</Teachers>
+    <Classes>ATS(Y3)(1) &amp; ATS(Y3)(2)</Classes>
+    <Room>F310</Room>
+    <Capacity>50</Capacity>
+    <Date>Mon 13:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Interpreting II (2)</Name>
+    <Teachers>Ms. Dawn TSANG</Teachers>
+    <Classes>ATS(Y3)(1) &amp; ATS(Y3)(2)</Classes>
+    <Room>F310</Room>
+    <Capacity>50</Capacity>
+    <Date>Thu 15:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (10)</Name>
+    <Teachers>Dr. Hock Ming LEE</Teachers>
+    <Classes>CCM(Y1)(1) &amp; CCM(Y1)(2)</Classes>
+    <Room>IEH303</Room>
+    <Capacity>100</Capacity>
+    <Date>Thu 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (10)</Name>
+    <Teachers>Dr. Hock Ming LEE</Teachers>
+    <Classes>CCM(Y1)(1) &amp; CCM(Y1)(2)</Classes>
+    <Room>C205</Room>
+    <Capacity>116</Capacity>
+    <Date>Fri 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Mathematics for Business (4)</Name>
+    <Teachers>Dr. Zheng-Jun JIANG</Teachers>
+    <Classes>CCM(Y1)(1) &amp; CCM(Y1)(2)</Classes>
+    <Room>C302</Room>
+    <Capacity>72</Capacity>
+    <Date>Mon 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Mathematics for Business (4)</Name>
+    <Teachers>Dr. Zheng-Jun JIANG</Teachers>
+    <Classes>CCM(Y1)(1) &amp; CCM(Y1)(2)</Classes>
+    <Room>B203</Room>
+    <Capacity>154</Capacity>
+    <Date>Tue 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Microeconomics (9)</Name>
+    <Teachers>Dr. Angela DU</Teachers>
+    <Classes>CCM(Y1)(1) &amp; ENVS(Y3)(CEM)</Classes>
+    <Room>E201</Room>
+    <Capacity>90</Capacity>
+    <Date>Mon 16:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Microeconomics (9)</Name>
+    <Teachers>Dr. Angela DU</Teachers>
+    <Classes>CCM(Y1)(1) &amp; ENVS(Y3)(CEM)</Classes>
+    <Room>E304</Room>
+    <Capacity>68</Capacity>
+    <Date>Fri 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Business (9)</Name>
+    <Teachers>Ms. Jue WANG</Teachers>
+    <Classes>CCM(Y1)(1) &amp; FST(Y4)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Mon 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Business (9)</Name>
+    <Teachers>Ms. Jue WANG</Teachers>
+    <Classes>CCM(Y1)(1) &amp; FST(Y4)</Classes>
+    <Room>B203</Room>
+    <Capacity>154</Capacity>
+    <Date>Thu 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Business (10)</Name>
+    <Teachers>Ms. Jue WANG</Teachers>
+    <Classes>CCM(Y1)(2) &amp; FST(Y3)</Classes>
+    <Room>D301</Room>
+    <Capacity>146</Capacity>
+    <Date>Tue 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Business (10)</Name>
+    <Teachers>Ms. Jue WANG</Teachers>
+    <Classes>CCM(Y1)(2) &amp; FST(Y3)</Classes>
+    <Room>B301</Room>
+    <Capacity>242</Capacity>
+    <Date>Wed 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Microeconomics (10)</Name>
+    <Teachers>Dr. Steve YANG</Teachers>
+    <Classes>CCM(Y1)(2) &amp; FST(Y3) &amp; FST(Y4)</Classes>
+    <Room>B203</Room>
+    <Capacity>154</Capacity>
+    <Date>Fri 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Microeconomics (10)</Name>
+    <Teachers>Dr. Steve YANG</Teachers>
+    <Classes>CCM(Y1)(2) &amp; FST(Y3) &amp; FST(Y4)</Classes>
+    <Room>C121</Room>
+    <Capacity>100</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting II (9)</Name>
+    <Teachers>Dr. Donna CHAN</Teachers>
+    <Classes>CCM(Y2)(1)</Classes>
+    <Room>E205B</Room>
+    <Capacity>80</Capacity>
+    <Date>Mon 16:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting II (9)</Name>
+    <Teachers>Dr. Donna CHAN</Teachers>
+    <Classes>CCM(Y2)(1)</Classes>
+    <Room>E301</Room>
+    <Capacity>82</Capacity>
+    <Date>Tue 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Cultural Industries in Chinese Cities </Name>
+    <Teachers>Dr. Lei SHI</Teachers>
+    <Classes>CCM(Y2)(1) &amp; CCM(Y2)(2)</Classes>
+    <Room>E204</Room>
+    <Capacity>76</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Cultural Industries in Chinese Cities </Name>
+    <Teachers>Dr. Lei SHI</Teachers>
+    <Classes>CCM(Y2)(1) &amp; CCM(Y2)(2)</Classes>
+    <Room>C210</Room>
+    <Capacity>72</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Present State of the Arts</Name>
+    <Teachers>Dr.Purrie NG</Teachers>
+    <Classes>CCM(Y2)(1) &amp; CCM(Y2)(2)</Classes>
+    <Room>E105</Room>
+    <Capacity>58</Capacity>
+    <Date>Tue 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Present State of the Arts</Name>
+    <Teachers>Dr.Purrie NG</Teachers>
+    <Classes>CCM(Y2)(1) &amp; CCM(Y2)(2)</Classes>
+    <Room>D305</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Basic Studies in Spatial Design</Name>
+    <Teachers>Dr.Purrie NG</Teachers>
+    <Classes>CCM(Y2)(1) &amp; CCM(Y2)(2)</Classes>
+    <Room>E302</Room>
+    <Capacity>68</Capacity>
+    <Date>Mon 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Basic Studies in Spatial Design</Name>
+    <Teachers>Dr.Purrie NG</Teachers>
+    <Classes>CCM(Y2)(1) &amp; CCM(Y2)(2)</Classes>
+    <Room>D305</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 16:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Aesthetics of Film</Name>
+    <Teachers>Dr. Ruby CHEUNG</Teachers>
+    <Classes>CCM(Y2)(1) &amp; CCM(Y2)(2)</Classes>
+    <Room>E204</Room>
+    <Capacity>76</Capacity>
+    <Date>Mon 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Aesthetics of Film</Name>
+    <Teachers>Dr. Ruby CHEUNG</Teachers>
+    <Classes>CCM(Y2)(1) &amp; CCM(Y2)(2)</Classes>
+    <Room>E204</Room>
+    <Capacity>76</Capacity>
+    <Date>Thu 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting II (10)</Name>
+    <Teachers>Ms. Maria CHAN</Teachers>
+    <Classes>CCM(Y2)(2)</Classes>
+    <Room>C207</Room>
+    <Capacity>72</Capacity>
+    <Date>Tue 15:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to the Study of Literature (3)</Name>
+    <Teachers>Dr. Hari Ram ADHIKARI</Teachers>
+    <Classes>CELL(Y1)</Classes>
+    <Room>E202</Room>
+    <Capacity>68</Capacity>
+    <Date>Mon 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to the Study of Literature (3)</Name>
+    <Teachers>Dr. Hari Ram ADHIKARI</Teachers>
+    <Classes>CELL(Y1)</Classes>
+    <Room>D301</Room>
+    <Capacity>146</Capacity>
+    <Date>Tue 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Physical Education/Healthy Living (3) (Rugby, Frisbee)</Name>
+    <Teachers>Mr. Peng GAO</Teachers>
+    <Classes>CELL(Y1) &amp; CTV(Y1)(1) &amp; CTV(Y1)(2) &amp; SWSA(Y1)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Mon 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Physical Education/Healthy Living (3) (Step Aerobics, Pilates)</Name>
+    <Teachers>Ms. Maggie DANG</Teachers>
+    <Classes>CELL(Y1) &amp; CTV(Y1)(1) &amp; CTV(Y1)(2) &amp; SWSA(Y1)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Mon 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Physical Education/Healthy Living (3) (Frisbee, Rugby)</Name>
+    <Teachers>Ms. Yi-Shan TANG</Teachers>
+    <Classes>CELL(Y1) &amp; CTV(Y1)(1) &amp; CTV(Y1)(2) &amp; SWSA(Y1)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Mon 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Physical Education/Healthy Living (3) (Yoga, Five-animal exercise)</Name>
+    <Teachers>Ms. Helen HAN</Teachers>
+    <Classes>CELL(Y1) &amp; CTV(Y1)(1) &amp; CTV(Y1)(2) &amp; SWSA(Y1)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Mon 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Physical Education/Healthy Living (3) (rock climbing)</Name>
+    <Teachers>Mr. ZENG</Teachers>
+    <Classes>CELL(Y1) &amp; CTV(Y1)(1) &amp; CTV(Y1)(2) &amp; SWSA(Y1)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Mon 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Survey of American Literature (1)</Name>
+    <Teachers>Dr. Charles LOWE</Teachers>
+    <Classes>CELL(Y2)</Classes>
+    <Room>C303</Room>
+    <Capacity>96</Capacity>
+    <Date>Tue 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Survey of American Literature (1)</Name>
+    <Teachers>Dr. Charles LOWE</Teachers>
+    <Classes>CELL(Y2)</Classes>
+    <Room>C204</Room>
+    <Capacity>80</Capacity>
+    <Date>Mon 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Asian Diaspora in Literature and Film</Name>
+    <Teachers>Dr. Hari Ram ADHIKARI</Teachers>
+    <Classes>CELL(Y2)</Classes>
+    <Room>D404</Room>
+    <Capacity>94</Capacity>
+    <Date>Tue 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Asian Diaspora in Literature and Film</Name>
+    <Teachers>Dr. Hari Ram ADHIKARI</Teachers>
+    <Classes>CELL(Y2)</Classes>
+    <Room>D305</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Discourse and Grammar (2)</Name>
+    <Teachers>Dr. Sheena Van-Der MARK</Teachers>
+    <Classes>CELL(Y2)</Classes>
+    <Room>C122</Room>
+    <Capacity>100</Capacity>
+    <Date>Wed 9:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Discourse and Grammar (2)</Name>
+    <Teachers>Dr. Sheena Van-Der MARK</Teachers>
+    <Classes>CELL(Y2)</Classes>
+    <Room>E201</Room>
+    <Capacity>90</Capacity>
+    <Date>Thu 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Applied Ethics (3)</Name>
+    <Teachers>Dr. Irene FUNG</Teachers>
+    <Classes>CELL(Y2)</Classes>
+    <Room>C122</Room>
+    <Capacity>100</Capacity>
+    <Date>Mon 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Applied Ethics (3)</Name>
+    <Teachers>Dr. Irene FUNG</Teachers>
+    <Classes>CELL(Y2)</Classes>
+    <Room>D302</Room>
+    <Capacity>104</Capacity>
+    <Date>Tue 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Psycholinguistics</Name>
+    <Teachers>Dr. Terry SHORTALL</Teachers>
+    <Classes>CELL(Y2) &amp; TESL(Y4)</Classes>
+    <Room>E106</Room>
+    <Capacity>62</Capacity>
+    <Date>Tue 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Psycholinguistics</Name>
+    <Teachers>Dr. Terry SHORTALL</Teachers>
+    <Classes>CELL(Y2) &amp; TESL(Y4)</Classes>
+    <Room>D406</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Concepts in Contemporary Arts</Name>
+    <Teachers>Dr. Ruby CHEUNG</Teachers>
+    <Classes>CIM(Y3)</Classes>
+    <Room>D404</Room>
+    <Capacity>94</Capacity>
+    <Date>Mon 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Concepts in Contemporary Arts</Name>
+    <Teachers>Dr. Ruby CHEUNG</Teachers>
+    <Classes>CIM(Y3)</Classes>
+    <Room>E105</Room>
+    <Capacity>58</Capacity>
+    <Date>Thu 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Artistic Creativity &amp; Aesthetics Awareness</Name>
+    <Teachers>Dr. Ruby CHEUNG</Teachers>
+    <Classes>CIM(Y3)</Classes>
+    <Room>D305</Room>
+    <Capacity>60</Capacity>
+    <Date>Tue 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Artistic Creativity &amp; Aesthetics Awareness</Name>
+    <Teachers>Dr. Ruby CHEUNG</Teachers>
+    <Classes>CIM(Y3)</Classes>
+    <Room>C204</Room>
+    <Capacity>80</Capacity>
+    <Date>Thu 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Law (5)</Name>
+    <Teachers>Mr. Raymond KONG</Teachers>
+    <Classes>CIM(Y3)</Classes>
+    <Room>C208</Room>
+    <Capacity>72</Capacity>
+    <Date>Thu 15:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Organizational Behaviour (9)</Name>
+    <Teachers>Dr. Angela MA</Teachers>
+    <Classes>CIM(Y3)</Classes>
+    <Room>B301</Room>
+    <Capacity>242</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Organizational Behaviour (9)</Name>
+    <Teachers>Dr. Angela MA</Teachers>
+    <Classes>CIM(Y3)</Classes>
+    <Room>C123</Room>
+    <Capacity>100</Capacity>
+    <Date>Mon 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>International Cultural Trade</Name>
+    <Teachers>Dr. Lei SHI</Teachers>
+    <Classes>CIM(Y3)</Classes>
+    <Room>C203</Room>
+    <Capacity>90</Capacity>
+    <Date>Wed 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>International Cultural Trade</Name>
+    <Teachers>Dr. Lei SHI</Teachers>
+    <Classes>CIM(Y3)</Classes>
+    <Room>E205B</Room>
+    <Capacity>80</Capacity>
+    <Date>Mon 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Event Management</Name>
+    <Teachers>Dr. Lei SHI</Teachers>
+    <Classes>CIM(Y4)</Classes>
+    <Room>E104</Room>
+    <Capacity>58</Capacity>
+    <Date>Mon 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Linear Algebra (1)</Name>
+    <Teachers>Mr. Mike HUANG</Teachers>
+    <Classes>CST(Y1)</Classes>
+    <Room>C205</Room>
+    <Capacity>116</Capacity>
+    <Date>Mon 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Computer Organization</Name>
+    <Teachers>Dr. Stephen BARRETT</Teachers>
+    <Classes>CST(Y1)</Classes>
+    <Room>E103</Room>
+    <Capacity>58</Capacity>
+    <Date>Fri 8:00-8:50</Date>
+  </Table>
+  <Table>
+    <Name>Software Development Workshop I</Name>
+    <Teachers>Ms. Chun-Yan JI</Teachers>
+    <Classes>CST(Y1)</Classes>
+    <Room>C402</Room>
+    <Capacity>48</Capacity>
+    <Date>Thu 8:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Statistics for Science (for Non-Statistics students only) (3)</Name>
+    <Teachers>Dr. Larry ZHANG</Teachers>
+    <Classes>CST(Y1)</Classes>
+    <Room>C121</Room>
+    <Capacity>100</Capacity>
+    <Date>Fri 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Statistics for Science (for Non-Statistics students only) (3)</Name>
+    <Teachers>Dr. Larry ZHANG</Teachers>
+    <Classes>CST(Y1)</Classes>
+    <Room>E205B</Room>
+    <Capacity>80</Capacity>
+    <Date>Thu 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Data Structures and Algorithms</Name>
+    <Teachers>Dr. Jing ZHAO</Teachers>
+    <Classes>CST(Y2)</Classes>
+    <Room>D303</Room>
+    <Capacity>80</Capacity>
+    <Date>Wed 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Data Structures and Algorithms</Name>
+    <Teachers>Dr. Jing ZHAO</Teachers>
+    <Classes>CST(Y2)</Classes>
+    <Room>D405</Room>
+    <Capacity>64</Capacity>
+    <Date>Mon 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Software Development Workshop II</Name>
+    <Teachers>Ms. Chun-Yan JI</Teachers>
+    <Classes>CST(Y2)</Classes>
+    <Room>C403</Room>
+    <Capacity>102</Capacity>
+    <Date>Mon 9:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Database Management Systems</Name>
+    <Teachers>Dr. Wei-Feng SU</Teachers>
+    <Classes>CST(Y2)</Classes>
+    <Room>D406</Room>
+    <Capacity>60</Capacity>
+    <Date>Mon 19:00-20:50</Date>
+  </Table>
+  <Table>
+    <Name>Database Management Systems</Name>
+    <Teachers>Dr. Wei-Feng SU</Teachers>
+    <Classes>CST(Y2)</Classes>
+    <Room>B303</Room>
+    <Capacity>154</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Applied Ethics (4)</Name>
+    <Teachers>Dr. Seon-Phil JEONG</Teachers>
+    <Classes>CST(Y2)</Classes>
+    <Room>C125</Room>
+    <Capacity>48</Capacity>
+    <Date>Thu 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Applied Ethics (4)</Name>
+    <Teachers>Dr. Seon-Phil JEONG</Teachers>
+    <Classes>CST(Y2)</Classes>
+    <Room>C122</Room>
+    <Capacity>100</Capacity>
+    <Date>Mon 16:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Principle of Programming Language</Name>
+    <Teachers>Dr. Wei-Feng SU</Teachers>
+    <Classes>CST(Y3)</Classes>
+    <Room>D302</Room>
+    <Capacity>104</Capacity>
+    <Date>Fri 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Principle of Programming Language</Name>
+    <Teachers>Dr. Wei-Feng SU</Teachers>
+    <Classes>CST(Y3)</Classes>
+    <Room>D301</Room>
+    <Capacity>146</Capacity>
+    <Date>Thu 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Design Patterns</Name>
+    <Teachers>Dr. Stephen BARRETT</Teachers>
+    <Classes>CST(Y3)</Classes>
+    <Room>E302</Room>
+    <Capacity>68</Capacity>
+    <Date>Mon 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Design Patterns</Name>
+    <Teachers>Dr. Stephen BARRETT</Teachers>
+    <Classes>CST(Y3)</Classes>
+    <Room>E202</Room>
+    <Capacity>68</Capacity>
+    <Date>Fri 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Software Development Workshop III</Name>
+    <Teachers>Dr. Judy FENG</Teachers>
+    <Classes>CST(Y3)</Classes>
+    <Room>E101</Room>
+    <Capacity>76</Capacity>
+    <Date>Wed 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Software Development Workshop III</Name>
+    <Teachers>Dr. Judy FENG</Teachers>
+    <Classes>CST(Y3)</Classes>
+    <Room>C203</Room>
+    <Capacity>90</Capacity>
+    <Date>Mon 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Computer Graphics</Name>
+    <Teachers>Dr. Amy ZHANG</Teachers>
+    <Classes>CST(Y3) &amp; CST(Y4)(DMCT)</Classes>
+    <Room>C407</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Computer Graphics</Name>
+    <Teachers>Dr. Amy ZHANG</Teachers>
+    <Classes>CST(Y3) &amp; CST(Y4)(DMCT)</Classes>
+    <Room>E205A</Room>
+    <Capacity>86</Capacity>
+    <Date>Mon 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Robotics</Name>
+    <Teachers>Ms. Yan-Yan JI</Teachers>
+    <Classes>CST(Y3) &amp; CST(Y4)(DMCT) &amp; CST(Y4)(WIT)</Classes>
+    <Room>C304</Room>
+    <Capacity>68</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Robotics</Name>
+    <Teachers>Ms. Yan-Yan JI</Teachers>
+    <Classes>CST(Y3) &amp; CST(Y4)(DMCT) &amp; CST(Y4)(WIT)</Classes>
+    <Room>B303</Room>
+    <Capacity>154</Capacity>
+    <Date>Wed 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Mobile Application Development</Name>
+    <Teachers>Dr. Louis TANG</Teachers>
+    <Classes>CST(Y3) &amp; CST(Y4)(DMCT) &amp; CST(Y4)(WIT)</Classes>
+    <Room>C305</Room>
+    <Capacity>68</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Mobile Application Development</Name>
+    <Teachers>Dr. Louis TANG</Teachers>
+    <Classes>CST(Y3) &amp; CST(Y4)(DMCT) &amp; CST(Y4)(WIT)</Classes>
+    <Room>B301</Room>
+    <Capacity>242</Capacity>
+    <Date>Thu 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Internet and the World Wide Web</Name>
+    <Teachers>Dr. Ricky HOU</Teachers>
+    <Classes>CST(Y3) &amp; CST(Y4)(DMCT) &amp; CST(Y4)(WIT)</Classes>
+    <Room>D407</Room>
+    <Capacity>70</Capacity>
+    <Date>Tue 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Internet and the World Wide Web</Name>
+    <Teachers>Dr. Ricky HOU</Teachers>
+    <Classes>CST(Y3) &amp; CST(Y4)(DMCT) &amp; CST(Y4)(WIT)</Classes>
+    <Room>D405</Room>
+    <Capacity>64</Capacity>
+    <Date>Thu 16:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Theory of Computation</Name>
+    <Teachers>Dr. Hai-Peng GUO</Teachers>
+    <Classes>CST(Y3) &amp; CST(Y4)(DMCT) &amp; CST(Y4)(WIT)</Classes>
+    <Room>D407</Room>
+    <Capacity>70</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Theory of Computation</Name>
+    <Teachers>Dr. Hai-Peng GUO</Teachers>
+    <Classes>CST(Y3) &amp; CST(Y4)(DMCT) &amp; CST(Y4)(WIT)</Classes>
+    <Room>D406</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>E-technology Architectures, Tools and Applications</Name>
+    <Teachers>Dr. Seon-Phil JEONG</Teachers>
+    <Classes>CST(Y3) &amp; CST(Y4)(WIT)</Classes>
+    <Room>B202</Room>
+    <Capacity>248</Capacity>
+    <Date>Mon 14:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>E-technology Architectures, Tools and Applications</Name>
+    <Teachers>Dr. Seon-Phil JEONG</Teachers>
+    <Classes>CST(Y3) &amp; CST(Y4)(WIT)</Classes>
+    <Room>D302</Room>
+    <Capacity>104</Capacity>
+    <Date>Thu 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Film and Television History (1)</Name>
+    <Teachers>Mr. Andrew NEWELL</Teachers>
+    <Classes>CTV(Y1)(1)</Classes>
+    <Room>C125</Room>
+    <Capacity>48</Capacity>
+    <Date>Tue 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Film and Television History (1)</Name>
+    <Teachers>Mr. Andrew NEWELL</Teachers>
+    <Classes>CTV(Y1)(1)</Classes>
+    <Room>C125</Room>
+    <Capacity>48</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Information Technology (9)</Name>
+    <Teachers>Dr. Louis TANG</Teachers>
+    <Classes>CTV(Y1)(1) &amp; CTV(Y1)(2)</Classes>
+    <Room>C403</Room>
+    <Capacity>102</Capacity>
+    <Date>Tue 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Information Technology (9)</Name>
+    <Teachers>Dr. Louis TANG</Teachers>
+    <Classes>CTV(Y1)(1) &amp; CTV(Y1)(2)</Classes>
+    <Room>C205</Room>
+    <Capacity>116</Capacity>
+    <Date>Thu 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Statistics for Non-Science (5)</Name>
+    <Teachers>Ms. Xie-Bing SONG</Teachers>
+    <Classes>CTV(Y1)(1) &amp; GIR(Y1)</Classes>
+    <Room>E302</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Statistics for Non-Science (5)</Name>
+    <Teachers>Ms. Xie-Bing SONG</Teachers>
+    <Classes>CTV(Y1)(1) &amp; GIR(Y1)</Classes>
+    <Room>B202</Room>
+    <Capacity>248</Capacity>
+    <Date>Tue 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (17)</Name>
+    <Teachers>Dr. Bing-Zhao WU</Teachers>
+    <Classes>CTV(Y1)(1) &amp; GIR(Y1)</Classes>
+    <Room>C123</Room>
+    <Capacity>100</Capacity>
+    <Date>Mon 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (17)</Name>
+    <Teachers>Dr. Bing-Zhao WU</Teachers>
+    <Classes>CTV(Y1)(1) &amp; GIR(Y1)</Classes>
+    <Room>C210</Room>
+    <Capacity>72</Capacity>
+    <Date>Fri 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Film and Television History (2)</Name>
+    <Teachers>Mr. Andrew NEWELL</Teachers>
+    <Classes>CTV(Y1)(2)</Classes>
+    <Room>C127</Room>
+    <Capacity>60</Capacity>
+    <Date>Mon 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Film and Television History (2)</Name>
+    <Teachers>Mr. Andrew NEWELL</Teachers>
+    <Classes>CTV(Y1)(2)</Classes>
+    <Room>C125</Room>
+    <Capacity>48</Capacity>
+    <Date>Wed 8:00-8:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (18)</Name>
+    <Teachers>Ms. Lily LIANG</Teachers>
+    <Classes>CTV(Y1)(2) &amp; TESL(Y1)</Classes>
+    <Room>C209</Room>
+    <Capacity>72</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (18)</Name>
+    <Teachers>Ms. Lily LIANG</Teachers>
+    <Classes>CTV(Y1)(2) &amp; TESL(Y1)</Classes>
+    <Room>C122</Room>
+    <Capacity>100</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Statistics for Non-Science (6)</Name>
+    <Teachers>Dr. Dennis CHEUNG</Teachers>
+    <Classes>CTV(Y1)(2) &amp; TESL(Y1)</Classes>
+    <Room>D306</Room>
+    <Capacity>104</Capacity>
+    <Date>Mon 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Statistics for Non-Science (6)</Name>
+    <Teachers>Dr. Dennis CHEUNG</Teachers>
+    <Classes>CTV(Y1)(2) &amp; TESL(Y1)</Classes>
+    <Room>D404</Room>
+    <Capacity>94</Capacity>
+    <Date>Tue 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Video Cinematography (1)</Name>
+    <Teachers>Mr. Paul LIU</Teachers>
+    <Classes>CTV(Y2)(1)</Classes>
+    <Room>C204</Room>
+    <Capacity>80</Capacity>
+    <Date>Mon 9:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Film and Video Editing (1)</Name>
+    <Teachers>Mr. Wei JIANG</Teachers>
+    <Classes>CTV(Y2)(1)</Classes>
+    <Room>F103-3</Room>
+    <Capacity>14</Capacity>
+    <Date>Tue 15:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Advanced Scriptwriting (1)</Name>
+    <Teachers>Mr. Grady GRANROS</Teachers>
+    <Classes>CTV(Y2)(1) &amp; CTV(Y2)(2)</Classes>
+    <Room>E205B</Room>
+    <Capacity>80</Capacity>
+    <Date>Tue 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Advanced Scriptwriting (2)</Name>
+    <Teachers>Mr. Wei JIANG</Teachers>
+    <Classes>CTV(Y2)(1) &amp; CTV(Y2)(2)</Classes>
+    <Room>E301</Room>
+    <Capacity>82</Capacity>
+    <Date>Tue 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Advanced Scriptwriting (2)</Name>
+    <Teachers>Mr. Wei JIANG</Teachers>
+    <Classes>CTV(Y2)(1) &amp; CTV(Y2)(2)</Classes>
+    <Room>C123</Room>
+    <Capacity>100</Capacity>
+    <Date>Fri 9:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Television and Chinese Society</Name>
+    <Teachers>Mr. Dominic MAN</Teachers>
+    <Classes>CTV(Y2)(1) &amp; CTV(Y2)(2)</Classes>
+    <Room>C122</Room>
+    <Capacity>100</Capacity>
+    <Date>Thu 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Television and Chinese Society</Name>
+    <Teachers>Mr. Dominic MAN</Teachers>
+    <Classes>CTV(Y2)(1) &amp; CTV(Y2)(2)</Classes>
+    <Room>C127</Room>
+    <Capacity>60</Capacity>
+    <Date>Wed 9:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Television Programming and Planning</Name>
+    <Teachers>Prof. Evelyn Mai</Teachers>
+    <Classes>CTV(Y2)(1) &amp; CTV(Y2)(2) &amp; CTV(Y3)(1) &amp; CTV(Y3)(2)</Classes>
+    <Room>D306</Room>
+    <Capacity>104</Capacity>
+    <Date>Thu 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Television Programming and Planning</Name>
+    <Teachers>Prof. Evelyn Mai</Teachers>
+    <Classes>CTV(Y2)(1) &amp; CTV(Y2)(2) &amp; CTV(Y3)(1) &amp; CTV(Y3)(2)</Classes>
+    <Room>E204</Room>
+    <Capacity>76</Capacity>
+    <Date>Wed 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Digital Animation</Name>
+    <Teachers>Ms. Mott Huang</Teachers>
+    <Classes>CTV(Y2)(1) &amp; CTV(Y2)(2) &amp; CTV(Y3)(1) &amp; CTV(Y3)(2)</Classes>
+    <Room>F103-3</Room>
+    <Capacity>14</Capacity>
+    <Date>Thu 15:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Video Cinematography (2)</Name>
+    <Teachers>Mr. Paul LIU</Teachers>
+    <Classes>CTV(Y2)(2)</Classes>
+    <Room>C204</Room>
+    <Capacity>80</Capacity>
+    <Date>Tue 15:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Film and Video Editing (2)</Name>
+    <Teachers>Mr. Wei JIANG</Teachers>
+    <Classes>CTV(Y2)(2)</Classes>
+    <Room>F103-3</Room>
+    <Capacity>14</Capacity>
+    <Date>Mon 9:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Communication Research Methods (1)</Name>
+    <Teachers>Dr. Michael FITZHENRY</Teachers>
+    <Classes>CTV(Y3)(1)</Classes>
+    <Room>C207</Room>
+    <Capacity>72</Capacity>
+    <Date>Thu 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Communication Research Methods (1)</Name>
+    <Teachers>Dr. Michael FITZHENRY</Teachers>
+    <Classes>CTV(Y3)(1)</Classes>
+    <Room>E305</Room>
+    <Capacity>140</Capacity>
+    <Date>Mon 9:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Documentary Film Production (1)</Name>
+    <Teachers>Mr. Dominic MAN</Teachers>
+    <Classes>CTV(Y3)(1)</Classes>
+    <Room>C125</Room>
+    <Capacity>48</Capacity>
+    <Date>Mon 13:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Multiple Media Narrative</Name>
+    <Teachers>Mr. Grady GRANROS</Teachers>
+    <Classes>CTV(Y3)(1) &amp; CTV(Y3)(2)</Classes>
+    <Room>C124</Room>
+    <Capacity>112</Capacity>
+    <Date>Fri 16:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Multiple Media Narrative</Name>
+    <Teachers>Mr. Grady GRANROS</Teachers>
+    <Classes>CTV(Y3)(1) &amp; CTV(Y3)(2)</Classes>
+    <Room>E308B</Room>
+    <Capacity>30</Capacity>
+    <Date>Thu 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Special Topics in Film and Television Subjects: Producing the TV Series (Fiction)</Name>
+    <Teachers>Mr. Andrew NEWELL</Teachers>
+    <Classes>CTV(Y3)(1) &amp; CTV(Y3)(2)</Classes>
+    <Room>C125</Room>
+    <Capacity>48</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Special Topics in Film and Television Subjects: Producing the TV Series (Fiction)</Name>
+    <Teachers>Mr. Andrew NEWELL</Teachers>
+    <Classes>CTV(Y3)(1) &amp; CTV(Y3)(2)</Classes>
+    <Room>E308A</Room>
+    <Capacity>30</Capacity>
+    <Date>Mon 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Studies in European Cinema</Name>
+    <Teachers>Dr. Michael FITZHENRY</Teachers>
+    <Classes>CTV(Y3)(1) &amp; CTV(Y3)(2) &amp; CTV(Y4)</Classes>
+    <Room>B203</Room>
+    <Capacity>154</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Studies in European Cinema</Name>
+    <Teachers>Dr. Michael FITZHENRY</Teachers>
+    <Classes>CTV(Y3)(1) &amp; CTV(Y3)(2) &amp; CTV(Y4)</Classes>
+    <Room>C204</Room>
+    <Capacity>80</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Special Topics in Film and Television Studies: Broadcast Management</Name>
+    <Teachers>Prof. Evelyn Mai</Teachers>
+    <Classes>CTV(Y3)(1) &amp; CTV(Y3)(2) &amp; CTV(Y4)</Classes>
+    <Room>B302</Room>
+    <Capacity>198</Capacity>
+    <Date>Mon 16:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Special Topics in Film and Television Studies: Broadcast Management</Name>
+    <Teachers>Prof. Evelyn Mai</Teachers>
+    <Classes>CTV(Y3)(1) &amp; CTV(Y3)(2) &amp; CTV(Y4)</Classes>
+    <Room>E204</Room>
+    <Capacity>76</Capacity>
+    <Date>Wed 9:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Communication Research Methods (2)</Name>
+    <Teachers>Dr. Michael FITZHENRY</Teachers>
+    <Classes>CTV(Y3)(2)</Classes>
+    <Room>C205</Room>
+    <Capacity>116</Capacity>
+    <Date>Mon 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Communication Research Methods (2)</Name>
+    <Teachers>Dr. Michael FITZHENRY</Teachers>
+    <Classes>CTV(Y3)(2)</Classes>
+    <Room>E202</Room>
+    <Capacity>68</Capacity>
+    <Date>Wed 8:00-8:50</Date>
+  </Table>
+  <Table>
+    <Name>Documentary Film Production (2)</Name>
+    <Teachers>Mr. Wei JIANG</Teachers>
+    <Classes>CTV(Y3)(2)</Classes>
+    <Room>B303</Room>
+    <Capacity>154</Capacity>
+    <Date>Fri 13:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Information Technology (5)</Name>
+    <Teachers>Dr. Seon-Phil JEONG</Teachers>
+    <Classes>ENVS(Y1)</Classes>
+    <Room>C402</Room>
+    <Capacity>48</Capacity>
+    <Date>Wed 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Information Technology (5)</Name>
+    <Teachers>Dr. Seon-Phil JEONG</Teachers>
+    <Classes>ENVS(Y1)</Classes>
+    <Room>D303</Room>
+    <Capacity>80</Capacity>
+    <Date>Tue 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>World Ecological Problems and Man</Name>
+    <Teachers>Dr. Siu-Tai TSIM &amp; Mr. Car WU</Teachers>
+    <Classes>ENVS(Y1)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Fri 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>World Ecological Problems and Man</Name>
+    <Teachers>Dr. Siu-Tai TSIM &amp; Mr. Car WU</Teachers>
+    <Classes>ENVS(Y1)</Classes>
+    <Room>D302</Room>
+    <Capacity>104</Capacity>
+    <Date>Mon 16:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Statistics for Business (2)</Name>
+    <Teachers>Dr. Ken TSANG</Teachers>
+    <Classes>ENVS(Y1)</Classes>
+    <Room>D404</Room>
+    <Capacity>94</Capacity>
+    <Date>Mon 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Statistics for Business (2)</Name>
+    <Teachers>Dr. Ken TSANG</Teachers>
+    <Classes>ENVS(Y1)</Classes>
+    <Room>C127</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (12)</Name>
+    <Teachers>Dr. Tie-zhu DONG</Teachers>
+    <Classes>ENVS(Y1) &amp; FST(Y1)</Classes>
+    <Room>D404</Room>
+    <Capacity>94</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (12)</Name>
+    <Teachers>Dr. Tie-zhu DONG</Teachers>
+    <Classes>ENVS(Y1) &amp; FST(Y1)</Classes>
+    <Room>C124</Room>
+    <Capacity>112</Capacity>
+    <Date>Mon 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Environmental Chemistry and Pollution Control</Name>
+    <Teachers>Dr. Chun-Fai. YU &amp; Dr. Donald LEE</Teachers>
+    <Classes>ENVS(Y2)</Classes>
+    <Room>B303</Room>
+    <Capacity>154</Capacity>
+    <Date>Thu 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Environmental Chemistry and Pollution Control</Name>
+    <Teachers>Dr. Chun-Fai. YU &amp; Dr. Donald LEE</Teachers>
+    <Classes>ENVS(Y2)</Classes>
+    <Room>C126</Room>
+    <Capacity>60</Capacity>
+    <Date>Mon 9:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Biochemistry and Physiology</Name>
+    <Teachers>Dr. Donald LEE</Teachers>
+    <Classes>ENVS(Y2)</Classes>
+    <Room>C126</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Biochemistry and Physiology</Name>
+    <Teachers>Dr. Donald LEE</Teachers>
+    <Classes>ENVS(Y2)</Classes>
+    <Room>D301</Room>
+    <Capacity>146</Capacity>
+    <Date>Mon 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Environmental Science</Name>
+    <Teachers>Dr. BunHo Bonny YUEN</Teachers>
+    <Classes>ENVS(Y2)</Classes>
+    <Room>E301</Room>
+    <Capacity>82</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Environmental Science</Name>
+    <Teachers>Dr. BunHo Bonny YUEN</Teachers>
+    <Classes>ENVS(Y2)</Classes>
+    <Room>B302</Room>
+    <Capacity>198</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Applied Ethics (5)</Name>
+    <Teachers>Dr. Jiehong LIAO</Teachers>
+    <Classes>ENVS(Y2)</Classes>
+    <Room>C205</Room>
+    <Capacity>116</Capacity>
+    <Date>Mon 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Applied Ethics (5)</Name>
+    <Teachers>Dr. Jiehong LIAO</Teachers>
+    <Classes>ENVS(Y2)</Classes>
+    <Room>D301</Room>
+    <Capacity>146</Capacity>
+    <Date>Wed 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Voluntary Service (2) (Elderly Service)</Name>
+    <Teachers>Ms. Connie LAI</Teachers>
+    <Classes>ENVS(Y2) &amp; FST(Y2) &amp; IJ(Y2)(1) &amp; IJ(Y2)(2) &amp; STAT(Y2)</Classes>
+    <Room>E102</Room>
+    <Capacity>60</Capacity>
+    <Date>Wed 14:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Voluntary Service (2) (Open Project)</Name>
+    <Teachers>Mr. Ice YANG</Teachers>
+    <Classes>ENVS(Y2) &amp; FST(Y2) &amp; IJ(Y2)(1) &amp; IJ(Y2)(2) &amp; STAT(Y2)</Classes>
+    <Room>E105</Room>
+    <Capacity>58</Capacity>
+    <Date>Wed 14:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Voluntary Service (2) (Children Service)</Name>
+    <Teachers>Ms. Katy ZHANG</Teachers>
+    <Classes>ENVS(Y2) &amp; FST(Y2) &amp; IJ(Y2)(1) &amp; IJ(Y2)(2) &amp; STAT(Y2)</Classes>
+    <Room>E106</Room>
+    <Capacity>62</Capacity>
+    <Date>Wed 14:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Voluntary Service (2) (Migrant Workers Service)</Name>
+    <Teachers>Ms. Angel LUO</Teachers>
+    <Classes>ENVS(Y2) &amp; FST(Y2) &amp; IJ(Y2)(1) &amp; IJ(Y2)(2) &amp; STAT(Y2)</Classes>
+    <Room>E104</Room>
+    <Capacity>58</Capacity>
+    <Date>Wed 14:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Resources and the Environment</Name>
+    <Teachers>Dr. Siu-Tai TSIM</Teachers>
+    <Classes>ENVS(Y3)(CEM) &amp; ENVS(Y3)(ET)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Fri 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Resources and the Environment</Name>
+    <Teachers>Dr. Siu-Tai TSIM</Teachers>
+    <Classes>ENVS(Y3)(CEM) &amp; ENVS(Y3)(ET)</Classes>
+    <Room>C128</Room>
+    <Capacity>60</Capacity>
+    <Date>Mon 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Conservation Ecology</Name>
+    <Teachers>Dr. Siu-Tai TSIM</Teachers>
+    <Classes>ENVS(Y3)(CEM) &amp; ENVS(Y3)(ET)</Classes>
+    <Room>B303</Room>
+    <Capacity>154</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Conservation Ecology</Name>
+    <Teachers>Dr. Siu-Tai TSIM</Teachers>
+    <Classes>ENVS(Y3)(CEM) &amp; ENVS(Y3)(ET)</Classes>
+    <Room>C203</Room>
+    <Capacity>90</Capacity>
+    <Date>Thu 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Atmospheric Science and Pollution</Name>
+    <Teachers>Dr. Chun-Fai. YU</Teachers>
+    <Classes>ENVS(Y3)(ET)</Classes>
+    <Room>E106</Room>
+    <Capacity>62</Capacity>
+    <Date>Wed 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Atmospheric Science and Pollution</Name>
+    <Teachers>Dr. Chun-Fai. YU</Teachers>
+    <Classes>ENVS(Y3)(ET)</Classes>
+    <Room>D305</Room>
+    <Capacity>60</Capacity>
+    <Date>Mon 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Environmental Analysis and Monitoring</Name>
+    <Teachers>Dr. Donald LEE</Teachers>
+    <Classes>ENVS(Y3)(ET)</Classes>
+    <Room>C126</Room>
+    <Capacity>60</Capacity>
+    <Date>Tue 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Environmental Analysis and Monitoring</Name>
+    <Teachers>Dr. Donald LEE</Teachers>
+    <Classes>ENVS(Y3)(ET)</Classes>
+    <Room>E307</Room>
+    <Capacity>32</Capacity>
+    <Date>Thu 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Biotechnology</Name>
+    <Teachers>Dr. BunHo Bonny YUEN</Teachers>
+    <Classes>ENVS(Y3)(ET)</Classes>
+    <Room>B302</Room>
+    <Capacity>198</Capacity>
+    <Date>Mon 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Environmental Geology</Name>
+    <Teachers>Prof. Daniel RUAN</Teachers>
+    <Classes>ENVS(Y4)(CEM) &amp; ENVS(Y4)(ET)</Classes>
+    <Room>E305</Room>
+    <Capacity>140</Capacity>
+    <Date>Mon 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Environmental Geology</Name>
+    <Teachers>Prof. Daniel RUAN</Teachers>
+    <Classes>ENVS(Y4)(CEM) &amp; ENVS(Y4)(ET)</Classes>
+    <Room>B202</Room>
+    <Capacity>248</Capacity>
+    <Date>Wed 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Land Contamination and Remediation</Name>
+    <Teachers>Prof. Daniel RUAN</Teachers>
+    <Classes>ENVS(Y4)(CEM) &amp; ENVS(Y4)(ET)</Classes>
+    <Room>E301</Room>
+    <Capacity>82</Capacity>
+    <Date>Mon 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Land Contamination and Remediation</Name>
+    <Teachers>Prof. Daniel RUAN</Teachers>
+    <Classes>ENVS(Y4)(CEM) &amp; ENVS(Y4)(ET)</Classes>
+    <Room>C208</Room>
+    <Capacity>72</Capacity>
+    <Date>Tue 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Selected Topics in Environmental Science</Name>
+    <Teachers>Dr. Chun-Fai. YU</Teachers>
+    <Classes>ENVS(Y4)(CEM) &amp; ENVS(Y4)(ET)</Classes>
+    <Room>C124</Room>
+    <Capacity>112</Capacity>
+    <Date>Mon 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Selected Topics in Environmental Science</Name>
+    <Teachers>Dr. Chun-Fai. YU</Teachers>
+    <Classes>ENVS(Y4)(CEM) &amp; ENVS(Y4)(ET)</Classes>
+    <Room>D303</Room>
+    <Capacity>80</Capacity>
+    <Date>Wed 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting II (6)</Name>
+    <Teachers>Ms. Michele KWOK</Teachers>
+    <Classes>ENVS(Y4)(CEM) &amp; FIN(Y2)(2)</Classes>
+    <Room>E205A</Room>
+    <Capacity>86</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting II (6)</Name>
+    <Teachers>Ms. Michele KWOK</Teachers>
+    <Classes>ENVS(Y4)(CEM) &amp; FIN(Y2)(2)</Classes>
+    <Room>D306</Room>
+    <Capacity>104</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Environmental Biotechnology</Name>
+    <Teachers>Dr. BunHo Bonny YUEN</Teachers>
+    <Classes>ENVS(Y4)(ET)</Classes>
+    <Room>E208B</Room>
+    <Capacity>28</Capacity>
+    <Date>Mon 16:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Environmental Biotechnology</Name>
+    <Teachers>Dr. BunHo Bonny YUEN</Teachers>
+    <Classes>ENVS(Y4)(ET)</Classes>
+    <Room>E208C</Room>
+    <Capacity>28</Capacity>
+    <Date>Wed 9:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Microeconomics (5)</Name>
+    <Teachers>Dr. Terence FUNG</Teachers>
+    <Classes>FIN(Y1)(1)</Classes>
+    <Room>E305</Room>
+    <Capacity>140</Capacity>
+    <Date>Tue 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Microeconomics (5)</Name>
+    <Teachers>Dr. Terence FUNG</Teachers>
+    <Classes>FIN(Y1)(1)</Classes>
+    <Room>B301</Room>
+    <Capacity>242</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Business (5)</Name>
+    <Teachers>Ms. Tammy MENG</Teachers>
+    <Classes>FIN(Y1)(1)</Classes>
+    <Room>B303</Room>
+    <Capacity>154</Capacity>
+    <Date>Mon 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Business (5)</Name>
+    <Teachers>Ms. Tammy MENG</Teachers>
+    <Classes>FIN(Y1)(1)</Classes>
+    <Room>C203</Room>
+    <Capacity>90</Capacity>
+    <Date>Wed 12:00-12:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (1)</Name>
+    <Teachers>Dr. Tie-zhu DONG</Teachers>
+    <Classes>FIN(Y1)(1) &amp; FIN(Y1)(5)</Classes>
+    <Room>E201</Room>
+    <Capacity>90</Capacity>
+    <Date>Mon 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (1)</Name>
+    <Teachers>Dr. Tie-zhu DONG</Teachers>
+    <Classes>FIN(Y1)(1) &amp; FIN(Y1)(5)</Classes>
+    <Room>E201</Room>
+    <Capacity>90</Capacity>
+    <Date>Fri 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Mathematics for Business (1)</Name>
+    <Teachers>Dr. Ken TSANG</Teachers>
+    <Classes>FIN(Y1)(1) &amp; FIN(Y1)(5)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Thu 16:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Mathematics for Business (1)</Name>
+    <Teachers>Dr. Ken TSANG</Teachers>
+    <Classes>FIN(Y1)(1) &amp; FIN(Y1)(5)</Classes>
+    <Room>C124</Room>
+    <Capacity>112</Capacity>
+    <Date>Tue 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Business (6)</Name>
+    <Teachers>Ms. Tammy MENG</Teachers>
+    <Classes>FIN(Y1)(2)</Classes>
+    <Room>B202</Room>
+    <Capacity>248</Capacity>
+    <Date>Thu 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Business (6)</Name>
+    <Teachers>Ms. Tammy MENG</Teachers>
+    <Classes>FIN(Y1)(2)</Classes>
+    <Room>C122</Room>
+    <Capacity>100</Capacity>
+    <Date>Fri 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Microeconomics (6)</Name>
+    <Teachers>Dr. Angela DU</Teachers>
+    <Classes>FIN(Y1)(2)</Classes>
+    <Room>B202</Room>
+    <Capacity>248</Capacity>
+    <Date>Mon 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Microeconomics (6)</Name>
+    <Teachers>Dr. Angela DU</Teachers>
+    <Classes>FIN(Y1)(2)</Classes>
+    <Room>C122</Room>
+    <Capacity>100</Capacity>
+    <Date>Thu 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Mathematics for Business (2)</Name>
+    <Teachers>Ms. Xie-Bing SONG</Teachers>
+    <Classes>FIN(Y1)(2) &amp; FIN(Y1)(6)</Classes>
+    <Room>C210</Room>
+    <Capacity>72</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Mathematics for Business (2)</Name>
+    <Teachers>Ms. Xie-Bing SONG</Teachers>
+    <Classes>FIN(Y1)(2) &amp; FIN(Y1)(6)</Classes>
+    <Room>E301</Room>
+    <Capacity>82</Capacity>
+    <Date>Mon 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (6)</Name>
+    <Teachers>Dr. Hong-Yu WU</Teachers>
+    <Classes>FIN(Y1)(2) &amp; FIN(Y1)(6)</Classes>
+    <Room>E305</Room>
+    <Capacity>140</Capacity>
+    <Date>Wed 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (6)</Name>
+    <Teachers>Dr. Hong-Yu WU</Teachers>
+    <Classes>FIN(Y1)(2) &amp; FIN(Y1)(6)</Classes>
+    <Room>E101</Room>
+    <Capacity>76</Capacity>
+    <Date>Tue 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Mathematics for Business (3)</Name>
+    <Teachers>Dr. Ping HE</Teachers>
+    <Classes>FIN(Y1)(3) &amp; FIN(Y1)(4)</Classes>
+    <Room>B203</Room>
+    <Capacity>154</Capacity>
+    <Date>Thu 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Mathematics for Business (3)</Name>
+    <Teachers>Dr. Ping HE</Teachers>
+    <Classes>FIN(Y1)(3) &amp; FIN(Y1)(4)</Classes>
+    <Room>B203</Room>
+    <Capacity>154</Capacity>
+    <Date>Tue 16:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (2)</Name>
+    <Teachers>Dr. Bing-Zhao WU</Teachers>
+    <Classes>FIN(Y1)(3) &amp; FIN(Y1)(4)</Classes>
+    <Room>C205</Room>
+    <Capacity>116</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Chinese II (2)</Name>
+    <Teachers>Dr. Bing-Zhao WU</Teachers>
+    <Classes>FIN(Y1)(3) &amp; FIN(Y1)(4)</Classes>
+    <Room>C203</Room>
+    <Capacity>90</Capacity>
+    <Date>Tue 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Business (7)</Name>
+    <Teachers>Dr. Angela MA</Teachers>
+    <Classes>FIN(Y1)(3) &amp; FIN(Y1)(5)</Classes>
+    <Room>E205A</Room>
+    <Capacity>86</Capacity>
+    <Date>Wed 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Business (7)</Name>
+    <Teachers>Dr. Angela MA</Teachers>
+    <Classes>FIN(Y1)(3) &amp; FIN(Y1)(5)</Classes>
+    <Room>C303</Room>
+    <Capacity>96</Capacity>
+    <Date>Tue 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Microeconomics (7)</Name>
+    <Teachers>Dr. Steve YANG</Teachers>
+    <Classes>FIN(Y1)(3) &amp; FIN(Y1)(5)</Classes>
+    <Room>E205B</Room>
+    <Capacity>80</Capacity>
+    <Date>Mon 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Microeconomics (7)</Name>
+    <Teachers>Dr. Steve YANG</Teachers>
+    <Classes>FIN(Y1)(3) &amp; FIN(Y1)(5)</Classes>
+    <Room>E205B</Room>
+    <Capacity>80</Capacity>
+    <Date>Wed 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Business (8)</Name>
+    <Teachers>Ms. Tammy MENG</Teachers>
+    <Classes>FIN(Y1)(4) &amp; FIN(Y1)(6)</Classes>
+    <Room>B303</Room>
+    <Capacity>154</Capacity>
+    <Date>Mon 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Business (8)</Name>
+    <Teachers>Ms. Tammy MENG</Teachers>
+    <Classes>FIN(Y1)(4) &amp; FIN(Y1)(6)</Classes>
+    <Room>C126</Room>
+    <Capacity>60</Capacity>
+    <Date>Wed 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Microeconomics (8)</Name>
+    <Teachers>Dr. Wing-sun LI</Teachers>
+    <Classes>FIN(Y1)(4) &amp; FIN(Y1)(6)</Classes>
+    <Room>C123</Room>
+    <Capacity>100</Capacity>
+    <Date>Mon 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Microeconomics (8)</Name>
+    <Teachers>Dr. Wing-sun LI</Teachers>
+    <Classes>FIN(Y1)(4) &amp; FIN(Y1)(6)</Classes>
+    <Room>B303</Room>
+    <Capacity>154</Capacity>
+    <Date>Tue 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Financial Planning and Investment Analysis (1)</Name>
+    <Teachers>Dr. Warren WU</Teachers>
+    <Classes>FIN(Y2)(1)</Classes>
+    <Room>C205</Room>
+    <Capacity>116</Capacity>
+    <Date>Wed 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Financial Planning and Investment Analysis (1)</Name>
+    <Teachers>Dr. Warren WU</Teachers>
+    <Classes>FIN(Y2)(1)</Classes>
+    <Room>E301</Room>
+    <Capacity>82</Capacity>
+    <Date>Mon 14:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Financial Mathematics (1)</Name>
+    <Teachers>Dr. Shawn TANG</Teachers>
+    <Classes>FIN(Y2)(1)</Classes>
+    <Room>C126</Room>
+    <Capacity>60</Capacity>
+    <Date>Mon 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Financial Mathematics (1)</Name>
+    <Teachers>Dr. Shawn TANG</Teachers>
+    <Classes>FIN(Y2)(1)</Classes>
+    <Room>E205A</Room>
+    <Capacity>86</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Experiential Arts (3) (Poster Design)</Name>
+    <Teachers>Ms. Cadie LONG</Teachers>
+    <Classes>FIN(Y2)(1) &amp; FIN(Y2)(2) &amp; FIN(Y2)(3) &amp; FIN(Y2)(4) &amp; MHR(Y2)(2)</Classes>
+    <Room>D404</Room>
+    <Capacity>94</Capacity>
+    <Date>Wed 14:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Experiential Arts (3) (Guitar)</Name>
+    <Teachers>Mr. Jie YU</Teachers>
+    <Classes>FIN(Y2)(1) &amp; FIN(Y2)(2) &amp; FIN(Y2)(3) &amp; FIN(Y2)(4) &amp; MHR(Y2)(2)</Classes>
+    <Room>C406</Room>
+    <Capacity>68</Capacity>
+    <Date>Wed 14:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Experiential Arts (3) (Drama)</Name>
+    <Teachers>Dr. Dave TOWEY</Teachers>
+    <Classes>FIN(Y2)(1) &amp; FIN(Y2)(2) &amp; FIN(Y2)(3) &amp; FIN(Y2)(4) &amp; MHR(Y2)(2)</Classes>
+    <Room>B203</Room>
+    <Capacity>154</Capacity>
+    <Date>Mon 9:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting II (5)</Name>
+    <Teachers>Ms. Michele KWOK</Teachers>
+    <Classes>FIN(Y2)(1) &amp; FST(Y4)</Classes>
+    <Room>C128</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting II (5)</Name>
+    <Teachers>Ms. Michele KWOK</Teachers>
+    <Classes>FIN(Y2)(1) &amp; FST(Y4)</Classes>
+    <Room>E305</Room>
+    <Capacity>140</Capacity>
+    <Date>Mon 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Financial Planning and Investment Analysis (2)</Name>
+    <Teachers>Dr. Warren WU</Teachers>
+    <Classes>FIN(Y2)(2)</Classes>
+    <Room>E205A</Room>
+    <Capacity>86</Capacity>
+    <Date>Mon 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Financial Planning and Investment Analysis (2)</Name>
+    <Teachers>Dr. Warren WU</Teachers>
+    <Classes>FIN(Y2)(2)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Tue 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Financial Mathematics (2)</Name>
+    <Teachers>Dr. Shawn TANG</Teachers>
+    <Classes>FIN(Y2)(2)</Classes>
+    <Room>C126</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 9:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Financial Mathematics (2)</Name>
+    <Teachers>Dr. Shawn TANG</Teachers>
+    <Classes>FIN(Y2)(2)</Classes>
+    <Room>E201</Room>
+    <Capacity>90</Capacity>
+    <Date>Wed 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Financial Planning and Investment Analysis (3)</Name>
+    <Teachers>Dr. Warren WU</Teachers>
+    <Classes>FIN(Y2)(3)</Classes>
+    <Room>B302</Room>
+    <Capacity>198</Capacity>
+    <Date>Fri 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Financial Planning and Investment Analysis (3)</Name>
+    <Teachers>Dr. Warren WU</Teachers>
+    <Classes>FIN(Y2)(3)</Classes>
+    <Room>B202</Room>
+    <Capacity>248</Capacity>
+    <Date>Tue 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting II (7)</Name>
+    <Teachers>Ms. Sarah CHOW</Teachers>
+    <Classes>FIN(Y2)(3)</Classes>
+    <Room>C208</Room>
+    <Capacity>72</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting II (7)</Name>
+    <Teachers>Ms. Sarah CHOW</Teachers>
+    <Classes>FIN(Y2)(3)</Classes>
+    <Room>E101</Room>
+    <Capacity>76</Capacity>
+    <Date>Tue 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Financial Mathematics (3)</Name>
+    <Teachers>Mr. Thomas WU</Teachers>
+    <Classes>FIN(Y2)(3)</Classes>
+    <Room>C302</Room>
+    <Capacity>72</Capacity>
+    <Date>Mon 12:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Principles of Accounting II (8)</Name>
+    <Teachers>Ms. Maria CHAN</Teachers>
+    <Classes>FIN(Y2)(4)</Classes>
+    <Room>C207</Room>
+    <Capacity>72</Capacity>
+    <Date>Tue 10:00-12:50</Date>
+  </Table>
+  <Table>
+    <Name>Financial Planning and Investment Analysis (4)</Name>
+    <Teachers>Ms. Bonnie CHAN</Teachers>
+    <Classes>FIN(Y2)(4)</Classes>
+    <Room>C208</Room>
+    <Capacity>72</Capacity>
+    <Date>Fri 15:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Financial Mathematics (4)</Name>
+    <Teachers>Mr. Thomas WU</Teachers>
+    <Classes>FIN(Y2)(4)</Classes>
+    <Room>C302</Room>
+    <Capacity>72</Capacity>
+    <Date>Mon 15:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Multinational Finance (1)</Name>
+    <Teachers>Dr. Wilson LI</Teachers>
+    <Classes>FIN(Y3)(1)</Classes>
+    <Room>E205A</Room>
+    <Capacity>86</Capacity>
+    <Date>Fri 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Multinational Finance (1)</Name>
+    <Teachers>Dr. Wilson LI</Teachers>
+    <Classes>FIN(Y3)(1)</Classes>
+    <Room>C210</Room>
+    <Capacity>72</Capacity>
+    <Date>Mon 9:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Investment Management (1)</Name>
+    <Teachers>Dr. Wilson LI</Teachers>
+    <Classes>FIN(Y3)(1)</Classes>
+    <Room>E305</Room>
+    <Capacity>140</Capacity>
+    <Date>Mon 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Investment Management (1)</Name>
+    <Teachers>Dr. Wilson LI</Teachers>
+    <Classes>FIN(Y3)(1)</Classes>
+    <Room>B202</Room>
+    <Capacity>248</Capacity>
+    <Date>Thu 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Banking and Credit (1)</Name>
+    <Teachers>Dr. Kenneth HO</Teachers>
+    <Classes>FIN(Y3)(1)</Classes>
+    <Room>D302</Room>
+    <Capacity>104</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Banking and Credit (1)</Name>
+    <Teachers>Dr. Kenneth HO</Teachers>
+    <Classes>FIN(Y3)(1)</Classes>
+    <Room>D302</Room>
+    <Capacity>104</Capacity>
+    <Date>Tue 11:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Futures and Options Markets (1)</Name>
+    <Teachers>Dr.Charlie Chulhee JUN</Teachers>
+    <Classes>FIN(Y3)(1)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Mon 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Futures and Options Markets (1)</Name>
+    <Teachers>Dr.Charlie Chulhee JUN</Teachers>
+    <Classes>FIN(Y3)(1)</Classes>
+    <Room>C210</Room>
+    <Capacity>72</Capacity>
+    <Date>Tue 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Organizational Behaviour (5)</Name>
+    <Teachers>Dr. Anthony TSUI</Teachers>
+    <Classes>FIN(Y3)(1)</Classes>
+    <Room>B202</Room>
+    <Capacity>248</Capacity>
+    <Date>Wed 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Organizational Behaviour (5)</Name>
+    <Teachers>Dr. Anthony TSUI</Teachers>
+    <Classes>FIN(Y3)(1)</Classes>
+    <Room>C126</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Investment Management (2)</Name>
+    <Teachers>Dr. Shawn TANG</Teachers>
+    <Classes>FIN(Y3)(2)</Classes>
+    <Room>D407</Room>
+    <Capacity>70</Capacity>
+    <Date>Tue 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Investment Management (2)</Name>
+    <Teachers>Dr. Shawn TANG</Teachers>
+    <Classes>FIN(Y3)(2)</Classes>
+    <Room>C305</Room>
+    <Capacity>68</Capacity>
+    <Date>Thu 8:00-8:50</Date>
+  </Table>
+  <Table>
+    <Name>Banking and Credit (2)</Name>
+    <Teachers>Dr. Kenneth HO</Teachers>
+    <Classes>FIN(Y3)(2)</Classes>
+    <Room>B301</Room>
+    <Capacity>242</Capacity>
+    <Date>Fri 13:00-14:50</Date>
+  </Table>
+  <Table>
+    <Name>Banking and Credit (2)</Name>
+    <Teachers>Dr. Kenneth HO</Teachers>
+    <Classes>FIN(Y3)(2)</Classes>
+    <Room>C301</Room>
+    <Capacity>80</Capacity>
+    <Date>Tue 15:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Multinational Finance (2)</Name>
+    <Teachers>Dr. Wilson LI</Teachers>
+    <Classes>FIN(Y3)(2)</Classes>
+    <Room>B201</Room>
+    <Capacity>242</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Futures and Options Markets (2)</Name>
+    <Teachers>Dr. Terence FUNG</Teachers>
+    <Classes>FIN(Y3)(2)</Classes>
+    <Room>B301</Room>
+    <Capacity>242</Capacity>
+    <Date>Mon 10:00-11:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Futures and Options Markets (2)</Name>
+    <Teachers>Dr. Terence FUNG</Teachers>
+    <Classes>FIN(Y3)(2)</Classes>
+    <Room>E205A</Room>
+    <Capacity>86</Capacity>
+    <Date>Thu 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Organizational Behaviour (6)</Name>
+    <Teachers>Dr. Kwan Ling Ng</Teachers>
+    <Classes>FIN(Y3)(2)</Classes>
+    <Room>C121</Room>
+    <Capacity>100</Capacity>
+    <Date>Mon 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Organizational Behaviour (6)</Name>
+    <Teachers>Dr. Kwan Ling Ng</Teachers>
+    <Classes>FIN(Y3)(2)</Classes>
+    <Room>D302</Room>
+    <Capacity>104</Capacity>
+    <Date>Wed 10:00-10:50</Date>
+  </Table>
+  <Table>
+    <Name>Multinational Finance (3)</Name>
+    <Teachers>Dr. Wilson LI</Teachers>
+    <Classes>FIN(Y3)(3)</Classes>
+    <Room>B301</Room>
+    <Capacity>242</Capacity>
+    <Date>Mon 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Multinational Finance (3)</Name>
+    <Teachers>Dr. Wilson LI</Teachers>
+    <Classes>FIN(Y3)(3)</Classes>
+    <Room>E103</Room>
+    <Capacity>58</Capacity>
+    <Date>Thu 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Investment Management (3)</Name>
+    <Teachers>Dr. Shawn TANG</Teachers>
+    <Classes>FIN(Y3)(3)</Classes>
+    <Room>B301</Room>
+    <Capacity>242</Capacity>
+    <Date>Tue 15:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Investment Management (3)</Name>
+    <Teachers>Dr. Shawn TANG</Teachers>
+    <Classes>FIN(Y3)(3)</Classes>
+    <Room>B301</Room>
+    <Capacity>242</Capacity>
+    <Date>Wed 9:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Banking and Credit (3)</Name>
+    <Teachers>Dr. Warren WU</Teachers>
+    <Classes>FIN(Y3)(3)</Classes>
+    <Room>B202</Room>
+    <Capacity>248</Capacity>
+    <Date>Fri 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Banking and Credit (3)</Name>
+    <Teachers>Dr. Warren WU</Teachers>
+    <Classes>FIN(Y3)(3)</Classes>
+    <Room>E304</Room>
+    <Capacity>68</Capacity>
+    <Date>Tue 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Futures and Options Markets (3)</Name>
+    <Teachers>Mr. Wilson WAN</Teachers>
+    <Classes>FIN(Y3)(3)</Classes>
+    <Room>E104</Room>
+    <Capacity>58</Capacity>
+    <Date>Mon 11:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Organizational Behaviour (7)</Name>
+    <Teachers>Dr. Mark JAMES</Teachers>
+    <Classes>FIN(Y3)(3)</Classes>
+    <Room>B303</Room>
+    <Capacity>154</Capacity>
+    <Date>Mon 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Organizational Behaviour (7)</Name>
+    <Teachers>Dr. Mark JAMES</Teachers>
+    <Classes>FIN(Y3)(3)</Classes>
+    <Room>C121</Room>
+    <Capacity>100</Capacity>
+    <Date>Thu 9:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Organizational Behaviour (8)</Name>
+    <Teachers>Mr. Berry KWOCK</Teachers>
+    <Classes>FIN(Y3)(4)</Classes>
+    <Room>C205</Room>
+    <Capacity>116</Capacity>
+    <Date>Fri 14:00-15:50</Date>
+  </Table>
+  <Table>
+    <Name>Organizational Behaviour (8)</Name>
+    <Teachers>Mr. Berry KWOCK</Teachers>
+    <Classes>FIN(Y3)(4)</Classes>
+    <Room>C126</Room>
+    <Capacity>60</Capacity>
+    <Date>Wed 13:00-13:50</Date>
+  </Table>
+  <Table>
+    <Name>Investment Management (4)</Name>
+    <Teachers>Dr.Charlie Chulhee JUN</Teachers>
+    <Classes>FIN(Y3)(4)</Classes>
+    <Room>D408</Room>
+    <Capacity>72</Capacity>
+    <Date>Mon 8:00-9:50</Date>
+  </Table>
+  <Table>
+    <Name>Investment Management (4)</Name>
+    <Teachers>Dr.Charlie Chulhee JUN</Teachers>
+    <Classes>FIN(Y3)(4)</Classes>
+    <Room>C128</Room>
+    <Capacity>60</Capacity>
+    <Date>Thu 17:00-17:50</Date>
+  </Table>
+  <Table>
+    <Name>Introduction to Futures and Options Markets (4)</Name>
+    <Teachers>Mr. Wilson WAN</Teachers>
+    <Classes>FIN(Y3)(4)</Classes>
+    <Room>E106</Room>
+    <Capacity>62</Capacity>
+    <Date>Mon 14:00-16:50</Date>
+  </Table>
+  <Table>
+    <Name>Course name</Name>
+    <Teachers>Teacher</Teachers>
+    <Classes>
+    </Classes>
+    <Room>C122</Room>
+    <Capacity>100</Capacity>
+    <Date>Mon 8:00-8:50</Date>
+  </Table>
+  <Table>
+    <Name>Course name</Name>
+    <Teachers>Teacher</Teachers>
+    <Classes>
+    </Classes>
+    <Room>C210</Room>
+    <Capacity>72</Capacity>
+    <Date>Mon 8:00-8:50</Date>
+  </Table>
+</NewDataSet>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<NewDataSet>
+  <Table>
+    <F1>0</F1>
+  </Table>
+</NewDataSet>
